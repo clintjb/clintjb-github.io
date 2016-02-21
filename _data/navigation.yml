@@ -1,0 +1,17 @@
+# Site navigation links
+
+- title: About
+  url: /about/
+
+- title: CV
+  url: /cv/
+
+- title: Business
+  url: /business/
+
+- title: Cooking
+  url: /cooking/
+
+- title: Pop Culture
+  url: /pop/
+  
