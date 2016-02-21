@@ -32,4 +32,4 @@ Blah Blah Blah about MBA which you can find [here](/mba)
 * MEGA & ARIS Process Modelling
 * Adobe Design Suite
 
-<a href="https://dl.dropboxusercontent.com/u/1161781/Clint%20Bird%20-%20CV%20-%20English.pdf" class="btn">Download CV</a>
+<a href="https://dl.dropboxusercontent.com/u/1161781/clintbird.com/Clint%20Bird%20-%20CV%20-%20English.pdf" class="btn">Download CV</a>
