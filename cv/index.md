@@ -13,20 +13,20 @@ I genuinely believe that via truly understanding the impacts and drivers at the 
 
 Blah Blah Blah about MBA which you can find [here](/mba)
 
-#####Technical Skills
+##### Technical Skills
 * Design To Cost & Value Engineering
 * Project Management
 * Operations & Systems Analysis
 * LEAN Methods
 * Financial Analysis & Forecasting
 
-#####Business Skills
+##### Business Skills
 * Goal & Detail Orientated
 * Strategical
 * Analyse & Solve Complex Problems
 * Analytical / Critical Thinker
 
-#####Tools & Applications
+##### Tools & Applications
 * MS Office, Access & Projects
 * VB & HTML Scripting
 * MEGA & ARIS Process Modelling
