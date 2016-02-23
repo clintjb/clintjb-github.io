@@ -211,7 +211,7 @@ Management theorists and ethics experts have increasingly concluded that this re
 
 This course is designed to provide an introduction to the subject of ethical behavior in business. The course provides an understanding of the nature of ethics, the role ethics plays in business, and the most commonly encountered ethical dilemmas in a business career. It provides practical advice on how to identify ethical dilemmas when they arise, how to get enough information to assess one’s responsibilities, how to analyze a complex ethical choice, and how to marshal one’s own resources and courage to act ethically. While the course includes some ethical theory, it is designed to be approachable by the seasoned manager, the novice businessperson, and students in business schools.
 
-[Transcript & Final Grade - 94.0%]( https://dl.dropboxusercontent.com/u/1161781/clintbird.com/Ethics.pdf )
+[Transcript & Final Grade - 94.2%]( https://dl.dropboxusercontent.com/u/1161781/clintbird.com/Ethics.pdf )
 {:.notice}
 
 ---
