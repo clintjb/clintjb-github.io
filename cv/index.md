@@ -1,7 +1,7 @@
 ---
 layout: page
 title: Clint Bird - CV
-tags: [CV, clint, bird, hamburg, germany, dtc, airbus, operations]
+tags: [CV, clint, bird, hamburg, germany, dtc, airbus, operations, mba]
 modified: 2014-08-08T20:53:07.573882-04:00
 comments: false
 image:
@@ -11,7 +11,7 @@ For more than 10 years, I have been honing my skills in the fields of design to 
 
 I genuinely believe that via truly understanding the impacts and drivers at the operational level, strong processes and automation can be developed to reduce waste and the drudgery in employees work. It enables the employees to do the things they do best, and help deliver value as an organisation.
 
-Blah Blah Blah about MBA which you can find [here](/mba)
+Im curently working through an online MBA developed entirely out of MOOCs from some of the worlds top business programmes. You can find my curriculum and transcript [here](/mba)
 
 ##### Technical Skills
 * Design To Cost & Value Engineering

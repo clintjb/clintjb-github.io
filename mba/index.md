@@ -1,8 +1,10 @@
 ---
 layout: page
 title: MBA
-modified: 2016-01-19
-excerpt: "Instructions on how to install and customize the Jekyll theme Minimal Mistakes."
+modified: 2015-01-19
+excerpt: "An online MBA developed entirely out of MOOCs from some of the worlds top business programmes"
+tags: [bird, clint, mba, wharton, free, online, coursera, MOOC, edx]
+comments: false
 image:
   feature: header-mba.jpg
 ---
@@ -10,320 +12,219 @@ image:
 {% include _toc.html %}
 
 ## Overview
+As someone who has spent their professional life devoted to reducing costs out of operations; a cost-conscious ethos and continually questioning the status-quo becomes ingrained. Challenging the 100% solution and find the balance with "bang for the buck", is what leads to real value add at a price point that works. It was with this mindset I approached the challenge to study an MBA that would also work with my family and travel constraints.
+Online degree programmes have been around for years, and distance learning as a whole is much older. So with the increase in online course popularity/availability; I decided to look into the feasibility of being able to blend together an online MBA developed entirely out of MOOCs from some of the worlds top business programmes. 
 
-Minimal Mistakes now requires [Jekyll](http://jekyllrb.com/) 3.0. Make sure to run `bundle update` if you aren't on the latest version to update all gem dependencies.
+After doing some research into the curriculum of some reputable university’s (Harvard / Berkeley / Wharton / Stanford etc) I have come to the following list of course content that needs to be covered as the “core curriculum”
 
-If you are creating a new Jekyll site using Minimal Mistakes follow these steps:
+* Accounting
+* Business Strategy
+* Economics
+* Finance
+* Marketing
+* Leadership
+* Operations
+* Statistics / Data Analysis
+* Ethics
 
-1. Fork the [Minimal Mistakes repo](http://github.com/mmistakes/minimal-mistakes/fork).
-2. Clone the repo you just forked and rename it.
-3. [Install Bundler](http://bundler.io) `gem install bundler` and Run `bundle install` to install all dependencies (Jekyll, [Jekyll-Sitemap](https://github.com/jekyll/jekyll-sitemap), [Octopress](https://github.com/octopress/octopress), etc)
-4. Update `config.yml`, add navigation, and replace demo posts and pages with your own. Full details below.
+I will update the below list with electives as I decide on which / begin to take them;
 
-If you want to use Minimal Mistakes with an existing Jekyll site follow these steps:
+* Entrepreneurship
 
-1. [Download Minimal Mistakes](https://github.com/mmistakes/minimal-mistakes/archive/master.zip) and unzip.
-2. Rename `minimal-mistakes-master` to something meaningful ie: `new-site`
-3. Run `bundle install` to install all dependencies (Jekyll, [Jekyll-Sitemap](https://github.com/jekyll/jekyll-sitemap), [Octopress](https://github.com/octopress/octopress), etc)
-4. Remove demo posts/pages and replace with your own posts, pages, and any other content you want to move over.
-5. Update posts' and pages' YAML to match variables used by Minimal Mistakes. Full details below.
-6. Update `_config.yml` and add navigation links. Full details below.
+Most information I found has suggested somewhere between 8-12 hours per week per subject is required to complete the courses. As a father of two and quite a demanding job, I've decided to look at this as a long term goal and take one subject at a time. I have a reasonable distance to travel to work so will try to allocate one hour per work day to study during transit on my tablet.
 
-**Pro-tip:** Delete the `gh-pages` branch after cloning and start fresh by branching off `master`. There is a bunch of garbage in `gh-pages` used for the theme's demo site that I'm guessing you won't want.
-{: .notice}
+I will keep everyone updated on how I find this way of working. So that’s it, my first class (An Introduction to Operations Management – Wharton University) starts in 10 days – let’s see how this pans out. 
 
----
-
-## Running Jekyll
-
-The preferred method for running Jekyll is with `bundle exec`, but if you're willing to deal gem conflicts feel free to go cowboy with a `jekyll build` or `jekyll serve`.
-
-> In some cases, running executables without bundle exec may work, if the executable happens to be installed in your system and does not pull in any gems that conflict with your bundle.
->
->However, this is unreliable and is the source of considerable pain. Even if it looks like it works, it may not work in the future or on another machine.
-
-{% highlight text %}
-bundle exec jekyll build
-
-bundle exec jekyll serve
-{% endhighlight %}
+Cheers, Clint
 
 ---
 
-## Scaffolding
+## Accounting
+![Wharton](/images/mba/wharton.jpg){: style="float:right"}
+**An Introduction to Financial Accounting (Wharton University)**
 
-How Minimal Mistakes is organized and what the various files are. All posts, layouts, includes, stylesheets, assets, and whatever else is grouped nicely under the root folder. The compiled Jekyll site outputs to `_site/`.
+Master the technical skills needed to analyze financial statements and disclosures for use in financial analysis, and learn how accounting standards and managerial incentives affect the financial reporting process. By the end of this course, you’ll be able to read the three most common financial statements: the income statement, balance sheet, and statement of cash flows.
 
-{% highlight text %}
-minimal-mistakes/
-├── _includes/
-|    ├── _author-bio.html        # bio stuff layout. pulls optional owner data from _config.yml
-|    ├── _browser-upgrade.html   # prompt to install a modern browser for < IE9
-|    ├── _disqus_comments.html   # Disqus comments script
-|    ├── _footer.html            # site footer
-|    ├── _head.html              # site head
-|    ├── _navigation.html        # site top navigation
-|    ├── _open-graph.html        # Twitter Cards and Open Graph meta data
-|    └── _scripts.html           # site scripts
-├── _layouts/
-|    ├── home.html               # homepage layout
-|    ├── page.html               # page layout
-|    ├── post-index.html         # post index layout
-|    └── post.html               # single post layout
-├── _posts/                      # MarkDown formatted posts
-├── _sass/                       # Sass stylesheets
-├── _templates/                  # used by Octopress to define YAML variables for new posts/pages
-├── about/                       # sample about page
-├── assets/
-|    ├── css/                    # compiled stylesheets
-|    ├── fonts/                  # webfonts
-|    ├── js/
-|    |   ├── _main.js            # main JavaScript file, plugin settings, etc
-|    |   ├── plugins/            # scripts and jQuery plugins to combine with _main.js
-|    |   ├── scripts.min.js      # concatenated and minified _main.js + plugin scripts
-|    |   └── vendor/             # vendor scripts to leave alone and load as is
-|    └── less/
-├── images/                      # images for posts and pages
-├── 404.md                       # 404 page
-├── feed.xml                     # Atom feed template
-├── index.md                     # sample homepage. lists 5 latest posts
-├── posts/                       # sample post index page. lists all posts in reverse chronology
-└── theme-setup/                 # theme setup page. safe to remove
-{% endhighlight %}
+**About The Course**
 
----
+This course will be broken up into 4 modules covering the following topics:
 
-## Site Setup
+* Financial Reporting and Balance Sheet
+* Accrual Accounting and the Income Statement
+* Cash Flows
+* Ratio Analysis
 
-A quick checklist of the files you'll want to edit to get up and running.
-
-### Site Wide Configuration
-
-`_config.yml` is your friend. Open it up and personalize it. Most variables are self explanatory but here's an explanation of each if needed:
-
-#### title
-
-The title of your site... shocker!
-
-Example `title: My Awesome Site`
-
-#### url
-
-Used to generate absolute urls in `sitemap.xml`, `feed.xml`, and for generating canonical URLs in `<head>`. When developing locally either comment this out or use something like `http://localhost:4000` so all assets load properly. *Don't include a trailing `/`*.
-
-Examples:
-
-{% highlight yaml %}
-url: http://mmistakes.github.io/minimal-mistakes
-url: http://localhost:4000
-url: //cooldude.github.io
-url:
-{% endhighlight %}
-
-#### Google Analytics and Webmaster Tools
-
-Google Analytics UA and Webmaster Tool verification tags can be entered under `owner` in `_config.yml`. For more information on obtaining these meta tags check [Google Webmaster Tools](http://support.google.com/webmasters/bin/answer.py?hl=en&answer=35179) and [Bing Webmaster Tools](https://ssl.bing.com/webmaster/configure/verify/ownership) support.
-
-### Navigation Links
-
-To set what links appear in the top navigation edit `_data/navigation.yml`. Use the following format to set the URL and title for as many links as you'd like. *External links will open in a new window.*
-
-{% highlight yaml %}
-- title: Portfolio
-  url: /portfolio/
-
-- title: Made Mistakes
-  url: http://mademistakes.com
-{% endhighlight %}
-
----
-
-## Adding New Content with Octopress
-
-While completely optional, I've included Octopress and some starter templates to automate the creation of new posts and pages. To take advantage of it start by installing the [Octopress](https://github.com/octopress/octopress) gem if it isn't already.
-
-{% highlight bash %}
-$ gem install octopress
-{% endhighlight %}
-
-### New Post
-
-Default command
-
-{% highlight bash %}
-$ octopress new post "Post Title"
-{% endhighlight %}
-
-Default works great if you want all your posts in one directory, but if you're like me and want to group them into subfolders like `/posts`, `/portfolio`, etc. Then this is the command for you. By specifying the DIR it will create a new post in that folder and populate the `categories:` YAML with the same value.
-
-{% highlight bash %}
-$ octopress new post "New Portfolio Post Title" --dir portfolio
-{% endhighlight %}
-
-### New Page
-
-To create a new page use the following command.
-
-{% highlight bash %}
-$ octopress new page new-page/
-{% endhighlight %}
-
-This will create a page at `/new-page/index.md`
-
----
-
-## Layouts and Content
-
-Explanations of the various `_layouts` included with the theme and when to use them.
-
-### Post and Page
-
-These two layouts are very similar. Both have an author sidebar, allow for large feature images at the top, and optional Disqus comments. The only real difference is the post layout includes related posts at the end of the page.
-
-### Post Index Page
-
-A [sample index page]({{ site.url }}/posts/) listing all posts grouped by the year they were published has been provided. The name can be customized to your liking by editing a few references. For example, to change **Posts** to **Writing** update the following:
-
-* In `_config.yml` under `links:` rename the title and URL to the following:
-{% highlight yaml %}
-  links:
-  - title: Writing
-    url: /writing/
-{% endhighlight %}
-* Rename `posts/index.md` to `writing/index.md` and update the YAML front matter accordingly.
-* Update the **View all posts** link in the `post.html` layout found in `_layouts` to match title and URL set previously.
-
-### Feature Images
-
-A good rule of thumb is to keep feature images nice and wide so you don't push the body text too far down. An image cropped around around 1024 x 256 pixels will keep file size down with an acceptable resolution for most devices. If you want to serve these images responsively I'd suggest looking at the [Jekyll Picture Tag](https://github.com/robwierzbowski/jekyll-picture-tag) plugin[^plugins].
-
-[^plugins]: If you're using GitHub Pages to host your site be aware that plugins are disabled. You'll need to build your site locally and then manually deploy if you want to use this sweet plugin.
-
-The post and page layouts make the assumption that the feature images live in the `images/` folder. To add a feature image to a post or page just include the filename in the front matter like so. It's probably best to host all your images from this folder, but you can hotlink from external sources if you desire.
-
-{% highlight yaml %}
-image:
-  feature: feature-image-filename.jpg
-  thumb: thumbnail-image.jpg #keep it square 200x200 px is good
-{% endhighlight %}
-
-To add attribution to a feature image use the following YAML front matter on posts or pages. Image credits appear directly below the feature image with a link back to the original source if supplied.
-
-{% highlight yaml %}
-image:
-  feature: feature-image-filename.jpg
-  credit: Michael Rose #name of the person or site you want to credit
-  creditlink: http://mademistakes.com #url to their site or licensing
-{% endhighlight %}
-
-### Thumbnails for OG and Twitter Cards
-
-Feature and thumbnail images are used by [Open Graph](https://developers.facebook.com/docs/opengraph/) and [Twitter Cards](https://dev.twitter.com/docs/cards) as well. If you don't assign a thumbnail the default graphic *(default-thumb.png)* is used. I'd suggest changing this to something more meaningful --- your logo or avatar are good options.
-
-**Pro-Tip**: You need to [apply for Twitter Cards](https://dev.twitter.com/docs/cards) before they will begin showing up when links to your site are shared.
+[Transcript & Final Grade - 82.0%]( https://dl.dropboxusercontent.com/u/1161781/clintbird.com/Accounting.pdf )
 {:.notice}
 
-### Author Override
+---
 
-By making use of data files you can assign different authors for each post.
+## Business Strategy
+![Darden](/images/mba/virginia.jpg){: style="float:right"}
+**Foundations of Business Strategy (Darden School Of Business)**
 
-Start by modifying `authors.yml` file in the `_data` folder and add your authors using the following format.
+In this course, we will explore the underlying theory and frameworks that provide the foundations of a successful business strategy. We will develop your ability to think strategically by providing you the tools for conducting a strategic analysis. Strategic analysis is critical for analyzing the competitive context in which an organization operates and for making reasoned and reasonable recommendations for how that organization should position itself and what actions it should take to maximize value creation. Aspiring managers, entrepreneurs, social entrepreneurs, analysts, and consultants all may find value in mastering these fundamentals.
 
-{% highlight yaml %}
-# Authors
+**About The Course**
 
-billy_rick:
-  name: Billy Rick
-  web: http://thewhip.com
-  email: billy@rick.com
-  bio: "What do you want, jewels? I am a very extravagant man."
-  avatar: bio-photo-2.jpg
-  twitter: extravagantman
-  google:
-    plus: +BillyRick
+The course is broken up into six modules:
 
-cornelius_fiddlebone:
-  name: Cornelius Fiddlebone
-  email: cornelius@thewhip.com
-  bio: "I ordered what?"
-  avatar: bio-photo.jpg
-  twitter: rhymeswithsackit
-  google:
-    plus: +CorneliusFiddlebone
-{% endhighlight %}
+* Introduction to Strategic Analysis
+* Analyzing Industry Structure
+* Analyzing Firm Capabilities
+* Analyzing Competitive Dynamics
+* Determining Competitive Positioning
+* Determining Firm Scope
 
-To assign Billy Rick as an author for our post. We'd add the following YAML front matter to a post:
+As the final project deliverable you are asked to prepare and submit a final written strategic analysis of your chosen organization. The purpose of your analysis is to assess the current competitive position of the firm and to make recommendations on how to improve that position. The audience for this report is the CEO or President of the organization you are analyzing. Thus, there is no need to discuss in depth the organization’s history, its business, or other facts that the CEO is already quite familiar with unless you need to communicate those things in order to make a point. To begin, briefly identify the industry of the firm you are analyzing. Discuss the strategic groups that constitute the industry and identify major competitors within each strategic group. Who are the major competitors in the industry? How do they compete? Has the industry structure changed? For example, have barriers to entry become less significant, and if so, why? What is the nature of competitive rivalry in the industry? Your analysis should consider the effect of each of the five competitive forces in the firm’s industry. In addition, analyze how factors in the general environment have been affecting this industry. You may limit your analysis to those factors that are most relevant to your industry. You must explain, though, why certain factors are more relevant than others. Decide which factors are most relevant to your industry, and focus on those. How have these factors influenced any or all of the five competitive forces you analyze? Analyze the firm’s capabilities. Are they distinctive, and difficult to imitate? Do they create a competitive advantage? To what extent is this competitive advantage sustainable? Are the firm’s capabilities a good ‘fit’ with the insights revealed from your analysis of the industry’s five forces, the changing business environment, and the position of the firm’s competitors? Why or why not? Use your analyses to identify the current competitive position of the focal organization. How desirable and sustainable is that competitive position? Based upon your analysis, characterize the overall attractiveness of the organization’s competitive position within the industry. As much as possible, please provide data to back up your points. Use the resources available to you to help support your analytical insights.
 
-{% highlight yaml %}
-author: billy_rick
-{% endhighlight %}
-
-### Kramdown Table of Contents
-
-To include an auto-generated **table of contents** for posts and pages, add the following `_include` before the actual content. [Kramdown will take care of the rest](http://kramdown.rubyforge.org/converter/html.html#toc) and convert all headlines into list of links.
-
-{% highlight html %}
-{% raw %}{% include _toc.html %}{% endraw %}
-{% endhighlight %}
-
-### Paragraph Indentation
-
-By default the margin below paragraphs has been removed and indent added to each. This is an intentional design decision to mimic the look of type set in a printed book or manuscript.
-
-<figure>
-  <img src="{{ site.url }}/images/paragraph-indent.png" alt="screen shot of paragraphs with default indent style set">
-  <figcaption>Example of the default paragraph style (indented first line and bottom margin removed).</figcaption>
-</figure>
-
-To disable the indents and add spacing between paragraphs change the following line in `_sass/variables.scss` from `true !default` to `false` like so.
-
-{% highlight css %}
-$paragraph-indent: false;
-{% endhighlight %}
-
-<figure>
-  <img src="{{ site.url }}/images/paragraph-no-indent.png" alt="screen shot of paragraphs with indent style disabled">
-  <figcaption>Example of paragraphs with $paragraph-indent disabled.</figcaption>
-</figure>
-
-### Videos
-
-Video embeds are responsive and scale with the width of the main content block with the help of [FitVids](http://fitvidsjs.com/).
-
-Not sure if this only effects Kramdown or if it's an issue with Markdown in general. But adding YouTube video embeds causes errors when building your Jekyll site. To fix add a space between the `<iframe>` tags and remove `allowfullscreen`. Example below:
-
-{% highlight html %}
-<iframe width="560" height="315" src="http://www.youtube.com/embed/PWf4WUoMXwg" frameborder="0"> </iframe>
-{% endhighlight %}
-
-### Social Sharing Links
-
-Social sharing links for Twitter, Facebook, and Google+ are included on posts/pages by default. To hide them on specific posts or pages add `share: false` to the YAML Front Matter. If you'd like to use different social networks modify `_includes/_social-share.html` to your liking. Icons are set using [Font Awesome](http://fontawesome.io).
+[Transcript & Final Grade - 85.0%]( https://dl.dropboxusercontent.com/u/1161781/clintbird.com/Strategy.pdf )
+{:.notice}
 
 ---
 
-## Further Customization
+## Economics
+![Illinois](/images/mba/illinois.jpg){: style="float:right"}
+**Microeconomics Principles (University of Illinois)**
 
-Jekyll 2.x added support for Sass files making it much easier to modify a theme's fonts and colors. By editing values found in `_sass/variables.scss` you can fine tune the site's colors and typography.
+This course offers an introduction to the functions of individual decision-makers—both consumers and producers—within the larger economic system. Emphasis is on the nature and functions of product markets, the theory of the firm under varying conditions of competition and monopoly, and the role of government in promoting efficiency in the economy.
 
-For example if you wanted a red background instead of white you'd change `$bodycolor: #fff;` to `$bodycolor: $cc0033;`.
+**About The Course**
 
-To modify the site's JavaScript files I setup a Grunt build script to lint/concatenate/minify all scripts into `scripts.min.js`. [Install Node.js](http://nodejs.org/), then [install Grunt](http://gruntjs.com/getting-started), and then finally install the dependencies for the theme contained in `package.json`:
+This course will be broken up into 8 modules covering the following topics:
 
-{% highlight bash %}
-npm install
-{% endhighlight %}
+* Basic Concepts, Modeling, and Trade
+* Supply and Demand
+* Market Efficiency and Government Intervention
+* Elasticity and Taxes
+* Production and Costs
+* Competitive Output
+* Firms With Market Power
+* Public Goods, Common Resources, and Externalities
 
-From the theme's root, use `grunt` concatenate JavaScript files, and optimize .jpg, .png, and .svg files in the `images/` folder. You can also use `grunt dev` in combination with `jekyll build --watch` to watch for updates JS files that Grunt will then automatically re-build as you write your code which will in turn auto-generate your Jekyll site when developing locally.
+[Transcript & Final Grade - 86.7%]( https://dl.dropboxusercontent.com/u/1161781/clintbird.com/Economics.pdf )
+{:.notice}
 
 ---
 
-## Questions?
+## Finance
+![Wharton](/images/mba/wharton.jpg){: style="float:right"}
+**An Introduction to Corporate Finance (Wharton University)**
 
-Found a bug or aren't quite sure how something works? By all means Ping me on Twitter [@mmistakes](http://twitter.com/mmistakes) or [file a GitHub Issue](https://github.com/mmistakes/minimal-mistakes/issues/new). And if you make something cool with this theme feel free to let me know.
+This course provides a brief introduction to the fundamentals of finance, emphasizing their application to a wide variety of real-world situations spanning personal finance, corporate decision-making, and financial intermediation. Key concepts and applications include: time value of money, risk-return tradeoff, cost of capital, interest rates, retirement savings, mortgage financing, auto leasing, capital budgeting, asset valuation, discounted cash flow (DCF) analysis, net present value, internal rate of return, hurdle rate, payback period.
+
+**About The Course**
+
+This course will be broken up into 4 modules covering the following topics:
+
+* Time Value of Money
+* Interest Rates
+* Discounted Cash Flow Analysis
+* Return on Investment
+
+[Transcript & Final Grade - 75.9%]( https://dl.dropboxusercontent.com/u/1161781/clintbird.com/Finance.pdf )
+{:.notice}
 
 ---
 
-## License
+## Marketing
+![Wharton](/images/mba/wharton.jpg){: style="float:right"}
+**An Introduction to Marketing (Wharton University)**
 
-This theme is free and open source software, distributed under the MIT License. So feel free to use this Jekyll theme on your site without linking back to me or including a disclaimer.
+This Wharton course will teach the fundamentals of marketing by getting to the root of customer decision making. The course will focus on branding strategies, customer centricity and new market entry.
+
+**About The Course**
+
+This course is part of the Wharton foundation series in the MOOC format. It is taught by three of Wharton's top faculty in the marketing department, which is consistently ranked as the #1 marketing department in the world. This course features on-location videos and debates between the three professors. The three core topics focus on customer loyalty. The first is about branding: given a very disparate world in which new startups are emerging constantly, brand equity is one of the key elements of keeping customers so that they have a trusted source for their needs. The second topic is customer centricity, which is taught in a global context where students learn how to gather needs and focus on the customer via discussion forums and empirical examples which are advanced by the mix of cultures in the course. Finally, the course explores practical, go-to-market strategies to help students understand the drivers that influence customers and see how these are implemented prior to making an investment. The course is broken up into three modules:
+
+* Branding
+* Customer Centricity
+* Go To Market Strategies
+
+[Transcript & Final Grade - 94.0%]( https://dl.dropboxusercontent.com/u/1161781/clintbird.com/Marketing.pdf )
+{:.notice}
+
+---
+
+## Leadership
+![Bocconi](/images/mba/bocconi.jpg){: style="float:right"}
+**International Leadership and Organizational Behavior (Bocconi University)**
+
+Leaders in business and non-profit organizations increasingly work across national boarders and in multi-cultural environments. You may work regularly with customers or suppliers abroad, or be part of a globally dispersed cross-functional team, or an expatriate manager on an international assignment. You may be a member of a global online community, or a development aid worker collaborating with an international network of partner organizations. In all of these contexts, your effectiveness as a leader depends on how well you understand and are able to manage individual and collective behaviors in an intercultural context.
+
+**About The Course**
+
+In this course – together with a team of Bocconi expert faculty and Bocconi alumni – we’ll explore the theory and practice of international and intercultural leadership and organizational behavior. Social science research has revealed systematic ways in which our behavior differs across cultural contexts – enabling us to more effectively work across borders. Insights from psychology, neuroscience, sociology and anthropology, from communication studies and from management scholarship allow us to understand what shapes individual and group decision making, what enhances or weakens team performance, and how we can build and use our social networks. And the shared practical experience of international leaders allows us to identify concrete steps to enhancing intercultural leadership competence, and to be cognizant of common leadership challenges.
+
+This course will be broken up into 6 modules covering the following topics:
+
+* Leadership Acumen
+* Navigating Culture
+* Communication
+* Motivation
+* Networking
+* Conflict
+
+[Transcript & Final Grade - 96.6%]( https://dl.dropboxusercontent.com/u/1161781/clintbird.com/Leadership.pdf )
+{:.notice}
+
+---
+
+## Operations
+![Wharton](/images/mba/wharton.jpg){: style="float:right"}
+**An Introduction to Operations Management (Wharton University)**
+
+This course will teach you how to analyze and improve business processes, be it in services or in manufacturing. You will learn how to improve productivity, how to provide more choice to customers, how to reduce response times, and how to improve quality.
+
+**About The Course**
+
+Remember the last time you went to a restaurant. What did you expect from that restaurant? You wanted to find something on the menu that you liked, you wanted the meal to be prepared according to high quality standards, you wanted to get it quickly and didn’t want to pay too much money for it. Now, remember the last time you went to a doctor’s office or a hospital. What did you want the doctors and nurses to do? You wanted them to provide the right care for you, you wanted the care delivered with great quality, you wanted to get the care quickly, and you (or your insurance) didn’t want to pay too much for it. Put differently, the management skills that you need to run the operations of a restaurant are the same that you need to run a hospital. And these are the skills you will learn in this course. Specifically, you will learn how to improve productivity, increase responsiveness, provide more choice to the customer, and deliver higher quality standards. In short, you will learn how to analyze business processes and how to improve them. Along the way, you will learn about topics such as Lean Operations, Six Sigma, and the Toyota production system, you will hear about bottlenecks, flows rates, and inventory levels. And, much, much more. The course is broken up into six modules: 
+
+* Process analysis
+* Productivity
+* Responsiveness
+* Quality
+* Product variety
+
+[Transcript & Final Grade - 90.4%]( https://dl.dropboxusercontent.com/u/1161781/clintbird.com/Operations%20Managment.pdf )
+{:.notice}
+
+---
+
+## Statistics / Data Analysis
+![Columbia](/images/mba/columbia.jpg){: style="float:right"}
+**Statistical Thinking for Data Science and Analytics (Columbia University)**
+
+This statistics and data analysis course will pave the statistical foundation for our discussion on data science. You will learn how data scientists exercise statistical thinking in designing data collection, derive insights from visualizing data, obtain supporting evidence for data-based decisions and construct models for predicting future trends from data.
+
+**Begins March 7 2016**
+
+---
+
+## Ethics
+![Santa Clara](/images/mba/clara.jpg){: style="float:right"}
+**Business Ethics for the Real World (Santa Clara University)**
+
+Management theorists and ethics experts have increasingly concluded that this responsibility, to create and sustain the ethical organizational culture, is a fundamental task of every level of management.
+
+**About The Course**
+
+This course is designed to provide an introduction to the subject of ethical behavior in business. The course provides an understanding of the nature of ethics, the role ethics plays in business, and the most commonly encountered ethical dilemmas in a business career. It provides practical advice on how to identify ethical dilemmas when they arise, how to get enough information to assess one’s responsibilities, how to analyze a complex ethical choice, and how to marshal one’s own resources and courage to act ethically. While the course includes some ethical theory, it is designed to be approachable by the seasoned manager, the novice businessperson, and students in business schools.
+
+[Transcript & Final Grade - 94.0%]( https://dl.dropboxusercontent.com/u/1161781/clintbird.com/Ethics.pdf )
+{:.notice}
+
+---
+
+## Entrepreneurship
+![MIT/Sloan](/images/mba/sloan.jpg){: style="float:right"}
+**Entrepreneurship 101 (MIT / Sloan University)**
+
+You have an idea for a product, but do you know who will want to buy it? Entrepreneurship 101: Who is your customer? 
+
+**About The Course**
+
+This course is designed to provide an introduction to the subject of ethical behavior in business. The course provides an understanding of the nature of ethics, the role ethics plays in business, and the most commonly encountered ethical dilemmas in a business career. It provides practical advice on how to identify ethical dilemmas when they arise, how to get enough information to assess one’s responsibilities, how to analyze a complex ethical choice, and how to marshal one’s own resources and courage to act ethically. While the course includes some ethical theory, it is designed to be approachable by the seasoned manager, the novice businessperson, and students in business schools.
+
+[Transcript & Final Grade - 90.0%]( https://dl.dropboxusercontent.com/u/1161781/clintbird.com/Entrepreneurship.pdf )
+{:.notice}
