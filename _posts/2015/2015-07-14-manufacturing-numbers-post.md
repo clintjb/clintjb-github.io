@@ -5,7 +5,7 @@ excerpt: "A detailed overview on the numbers and costs of bringing a product int
 tags: [business, manufacturing, costs, dtc]
 comments: true
 ---
-This is a fantastic post that I stumbled across over at [Bolt](https://medium.com/@BoltVC/hardware-by-the-numbers-part-2-financing-manufacturing-474c7efe6c5f) - It gives a really intersting overview on some of the numbers behind brining a product to market.
+This is a fantastic post that I stumbled across over at [Bolt](https://medium.com/@BoltVC/hardware-by-the-numbers-part-2-financing-manufacturing-474c7efe6c5f) - It gives a really intersting overview on some of the numbers behind bringing a product to market.
 
 > Contrary to popular belief, manufacturing is not that hard if you know what you’re doing. However, If you’ve never done it before, it’s pretty much impossible. The single best thing you can do to ensure success in manufacturing is to work with someone that knows what they’re doing. Either hire someone with experience scaling production or contract a service company like our friends at Dragon Innovation.
 > One of the largest mistakes first-time engineers make when it comes to manufacturing is thinking that the process is serial: product development ‘finishes’ and manufacturing ‘starts’. In reality, the two are viciously iterative. Very small details of how parts are designed can drastically change the manufacturing process. Time spent in design/engineering is far more efficient than time spent in manufacturing. A design that is ‘print ready’ (meaning it can be molded without changing geometry) can save hundreds or even thousands of person-hours in manufacturing.
