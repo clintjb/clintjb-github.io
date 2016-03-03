@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "NBA VS 80s Cartoons"
-excerpt: "A Mashup Of 1980s Cartoons And NBA Logos"
+excerpt: "A mashup of 1980s cartoons and NBA logos"
 tags: [pop culture, nba, cartoons, mashup, 80s]
 comments: true
 ---
