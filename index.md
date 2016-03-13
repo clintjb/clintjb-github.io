@@ -1,5 +1,5 @@
 ---
-layout: page
+layout: home
 title: Home
 excerpt: "30 something year old father, husband, lean enthusiast and aspiring chef. 10+ years experience in design to cost, project management and operations management.."
 tags: [about, clint, bird, hamburg, germany, australia, aunde, weave.ws, Jekyll, cost, dtc]

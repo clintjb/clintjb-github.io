@@ -9,7 +9,7 @@ comments: true
 	<img src="/images/posts/2016/career.jpg">
 </figure>
 
-A brilliant post that was featured on [Medium](https://medium.com/life-learning/career-advice-no-one-tells-you-8be1bcd330cb#.y3r5svqg0) - Perhaps suited to a younger audience for people coming straight out of school, but nevertheless interesting to reflect on.
+A brilliant post that was featured on [Medium](https://medium.com/life-learning/career-advice-no-one-tells-you-8be1bcd330cb#.y3r5svqg0) - Perhaps some of the points are a little more suited to a younger audience jut entering their careers, but nevertheless, something interesting to reflect on for everyone I think.
 
 It really is quite a long post, but for me personally some of the highlights were the following:
 
