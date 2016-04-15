@@ -31,9 +31,7 @@ I will update the below list with electives as I decide on which / begin to take
 
 * Entrepreneurship
 
-Most information I found has suggested somewhere between 8-12 hours per week per subject is required to complete the courses. As a father of two and quite a demanding job, I've decided to look at this as a long term goal and take one subject at a time. I have a reasonable distance to travel to work so will try to allocate one hour per work day to study during transit on my tablet.
-
-I will keep everyone updated on how I find this way of working. So that’s it, my first class (An Introduction to Operations Management – Wharton University) starts in 10 days – let’s see how this pans out. 
+Most information I found has suggested somewhere between 8-12 hours per week per subject is required to complete the courses. As a father of two and quite a demanding job, I've decided to look at this as a long term goal and take one subject at a time. I have a reasonable distance to travel to work so will try to allocate one hour per work day to study during transit on my tablet. I will keep everyone updated on how I find this way of working.
 
 Cheers, Clint
 
@@ -197,7 +195,19 @@ Remember the last time you went to a restaurant. What did you expect from that r
 
 This statistics and data analysis course will pave the statistical foundation for our discussion on data science. You will learn how data scientists exercise statistical thinking in designing data collection, derive insights from visualizing data, obtain supporting evidence for data-based decisions and construct models for predicting future trends from data.
 
-**Begins March 7 2016**
+**About The Course**
+
+This course will be broken up into 6 modules covering the following topics:
+
+* Data collection, analysis and inference
+* Data classification to identify key traits and customers
+* Conditional Probability-How to judge the probability of an event, based on certain conditions
+* How to use Bayesian modeling and inference for forecasting and studying public opinion
+* Basics of Linear Regression
+* Data Visualization: How to create use data to create compelling graphics
+
+[Transcript & Final Grade - 88.0%]( https://dl.dropboxusercontent.com/u/1161781/clintbird.com/Statistics.pdf )
+{:.notice}
 
 ---
 
