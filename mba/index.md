@@ -26,9 +26,6 @@ After doing some research into the curriculum of some reputable university’s (
 * Operations
 * Statistics / Data Analysis
 * Ethics
-
-I will update the below list with electives as I decide on which / begin to take them;
-
 * Entrepreneurship
 
 Most information I found has suggested somewhere between 8-12 hours per week per subject is required to complete the courses. As a father of two and quite a demanding job, I've decided to look at this as a long term goal and take one subject at a time. I have a reasonable distance to travel to work so will try to allocate one hour per work day to study during transit on my tablet. I will keep everyone updated on how I find this way of working.
