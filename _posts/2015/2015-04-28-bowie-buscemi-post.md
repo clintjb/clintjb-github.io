@@ -2,7 +2,7 @@
 layout: post
 title: "Bowie + Buscemi"
 excerpt: "A mash-up of Steve Buscemi and David Bowies many varied persona's"
-tags: [pop culture, david bowie, steve buscemi, mashup, portrait]
+tags: [stuff, pop culture, david bowie, steve buscemi, mashup, portrait]
 comments: true
 ---
 So anyway this was originally some work done from an illustrator named [Helen Green](http://dollychops.tumblr.com/).
