@@ -2,7 +2,7 @@
 layout: tag-index
 title: Stuff
 excerpt: "A List of Posts"
-tag: "tuff"
+tag: "stuff"
 image:
   feature: header-stuff.jpg
 ---
