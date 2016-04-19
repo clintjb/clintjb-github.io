@@ -2,7 +2,7 @@
 layout: post
 title: "Scarcity"
 excerpt: "Life lesson from Rufus Griscom"
-tags: [business, pop culture, quote, life lessons]
+tags: [stuff, pop culture, quote, life lessons]
 comments: true
 ---
 <figure>
