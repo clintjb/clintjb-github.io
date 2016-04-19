@@ -1,6 +1,6 @@
 ---
 layout: tag-index
-title: Pop Culture
+title: Stuff
 excerpt: "A List of Posts"
 tag: "pop culture"
 image:
