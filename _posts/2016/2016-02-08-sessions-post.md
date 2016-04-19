@@ -2,7 +2,7 @@
 layout: post
 title: "The Real Difference Between 4% And 5% Alcohol"
 excerpt: "When it comes to our body’s alcohol intake, what’s the real difference between 4% and 5% alcohol by volume?"
-tags: [pop culture, beer, alcohol, effects]
+tags: [stuff, pop culture, beer, alcohol, effects]
 comments: true
 ---
 This was an article featured in DRAFT Magazine which you can find [here](http://draftmag.com/science-session-abv-processing/). 
