@@ -8,7 +8,7 @@ comments: true
 <figure>
 	<img src="/images/posts/2016/scarcity.jpg">
 </figure>
-This was a quote I took from a list of life lessons from [Rufus Griscom](observer.com/2016/04/unsolicited-advice-for-my-three-sons-in-no-particular-order/)
+This was somehing quite simple that really spoke to me from a list of life lessons from [Rufus Griscom](observer.com/2016/04/unsolicited-advice-for-my-three-sons-in-no-particular-order/)
 
 Rufus Griscom:
 
