@@ -17,13 +17,13 @@ I've got to admit, finding a good work life balance is one of the most difficult
 >
 >But maybe all this soul searching is unnecessary. Maybe your values are much more obvious than you realize.
 >
-> ####YOU ALREADY PRIORITIZE, EVEN IF YOU THINK YOU DON'T
+> YOU ALREADY PRIORITIZE, EVEN IF YOU THINK YOU DON'T
 >
 > Let's be honest. You already have values. Your company already has values. And they're not what you've sticky-noted to your laptop or what was plastered on the wall when the company was founded decades ago. No, your values are a lot simpler and easier to find than that.
 >
 > They're hiding in your schedule. And for some of us, what they're communicating is frightening.
 >
-> ####"Your calendar never lies. You can't say one thing and schedule another."
+> "Your calendar never lies. You can't say one thing and schedule another."
 >
 > So when you tell yourself, "I put family first" but schedule a meeting for 6 p.m., you're kidding yourself. You told your spouse you'd be home before dinner—and then you do something like that. What your schedule is telling you is that you value work more than family, and if you're not okay with that, it's time to make a change.
 >
