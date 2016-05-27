@@ -12,7 +12,9 @@ image:
 {% include _toc.html %}
 
 ## Overview
-As someone who has spent their professional life devoted to reducing costs out of operations; a cost-conscious ethos and continually questioning the status-quo becomes ingrained. Challenging the 100% solution and find the balance with "bang for the buck", is what leads to real value add at a price point that works. It was with this mindset I approached the challenge to study an MBA that would also work with my family and travel constraints.
+As someone who has spent their professional life devoted to reducing costs out of operations; a cost-conscious ethos and continually questioning the status-quo becomes ingrained. Challenging the 100% solution and find the balance with "bang for the buck", is what leads to real value add at a price point that works. 
+
+It was with this mindset I approached the challenge to study an MBA that would also work with my family and travel constraints.
 Online degree programmes have been around for years, and distance learning as a whole is much older. So with the increase in online course popularity/availability; I decided to look into the feasibility of being able to blend together an online MBA developed entirely out of MOOCs from some of the worlds top business programmes. 
 
 After doing some research into the curriculum of some reputable university’s (Harvard / Berkeley / Wharton / Stanford etc) I have come to the following list of course content that needs to be covered as the “core curriculum”
@@ -28,7 +30,7 @@ After doing some research into the curriculum of some reputable university’s (
 * Ethics
 * Entrepreneurship
 
-Most information I found has suggested somewhere between 8-12 hours per week per subject is required to complete the courses. As a father of two and quite a demanding job, I've decided to look at this as a long term goal and take one subject at a time. I have a reasonable distance to travel to work so will try to allocate one hour per work day to study during transit on my tablet. I will keep everyone updated on how I find this way of working.
+Most information I found had suggested somewhere between 8-12 hours per week per subject is required to complete the courses. As a father of two and quite a demanding job, I had decided to look at this as a long-term goal and take one subject at a time. I have a reasonable distance to travel to work so generally allocated one hour per work day to study during transit on my tablet. All in all, it was a 2.5 year effort; but the flexibility this way of working gave really allowed me to really manage it well within my schedule. The quality of the courses was phenomenal and would highly recommend to all. If you have any questions or would like to know more from my experience on the topic, please drop me a line.
 
 Cheers, Clint
 
