@@ -11,7 +11,7 @@ For more than 10 years, I have been honing my skills in the fields of design to 
 
 I genuinely believe that via truly understanding the impacts and drivers at the operational level, strong processes and automation can be developed to reduce waste and the drudgery in employees work. It enables the employees to do the things they do best, and help deliver value as an organisation.
 
-Im curently working through an online MBA developed entirely out of MOOCs from some of the worlds top business programmes. You can find my curriculum and transcript [here](/mba)
+Ive recently just completed an online MBA developed entirely out of MOOCs from some of the worlds top business programmes. You can find my curriculum and transcript [here](/mba)
 
 ##### Technical Skills
 * Design To Cost & Value Engineering
