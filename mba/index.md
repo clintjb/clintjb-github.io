@@ -30,7 +30,9 @@ After doing some research into the curriculum of some reputable university’s (
 * Ethics
 * Entrepreneurship
 
-Most information I found had suggested somewhere between 8-12 hours per week per subject is required to complete the courses. As a father of two and quite a demanding job, I had decided to look at this as a long-term goal and take one subject at a time. I have a reasonable distance to travel to work so generally allocated one hour per work day to study during transit on my tablet. All in all, it was a 2.5 year effort; but the flexibility this way of working gave really allowed me to really manage it well within my schedule. The quality of the courses was phenomenal and would highly recommend to all. If you have any questions or would like to know more from my experience on the topic, please drop me a line.
+Most information I found had suggested somewhere between 8-12 hours per week per subject is required to complete the courses. As a father of two and quite a demanding job, I had decided to look at this as a long-term goal and take one subject at a time. 
+
+I have a reasonable distance to travel to work so generally allocated one hour per work day to study during transit on my tablet. All in all, it was a 2.5 year effort; but the flexibility this way of working gave really allowed me to manage it well within my schedule. The quality of the courses was phenomenal and I would highly recommend to all. If you have any questions or would like to know more from my experience on the topic, please drop me a line.
 
 Cheers, Clint
 
