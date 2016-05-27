@@ -53,7 +53,6 @@ I've got to admit, finding a good work life balance is one of the most difficult
 > * Consider Your Calling
 >
 > When you're in the throes of a busy, stressful day, ask yourself, "Is this really what I'm meant to do?" Granted, every job has its drawbacks. But if you're going weeks and months doing things out of sheer obligation, then it may be time to consider a change.
-> "If you're going weeks and months doing things out of sheer obligation, then it may be time to consider a change."
 > The notion that we should pursue our passions or go after dream jobs has fallen out of vogue in some quarters. But in my book The Art of Work, I share how sometimes we don't have to quit our jobs to discover our callings.
 > Often, we just need to figure out a way to pivot in the direction of more purposeful work. Each of us only gets so many days on earth, and they go by faster than we realize. Let's try not to spend them on things that don't actually matter.
 >
