@@ -1,7 +1,7 @@
 ---
 layout: tag-index
 title: Business
-excerpt: "A List of Posts"
+excerpt: "A list of business and manufcaturing related posts"
 tag: "business"
 image:
   feature: header-business.jpg
