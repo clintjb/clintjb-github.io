@@ -20,15 +20,15 @@ Years ago I come across a huge list of "manly" life rules that everyone should p
 * If you aren't confident, fake it. It will come around.
 * You can tell the size of a man by the size of things that bother him.
 * Always stand to shake someone's hand and give a firm handshake.
-* Ask more than you answer. Everybody likes to talk about themselves.
 * Go for women out of your league. You may end up surprised.
 * Manliness is not only being able to take care of yourself, but others as well.
 * Go with the decision that will make for a good story.
 * Nice guys don't finish last, boring guys do.
 * Don't let the little head do the thinking for the big head.
-* No matter their job or status, everyone deserves respect. (treat others the way you would like to be treated)
-* The most important thing you can learn is personal responsibility. Bad things happen; it's your job to overcome them.
-* A man does what needs to be done without complaining.
+* No matter who they are, everyone deserves respect. Or simply put "treat others the way you would like to be treated"
+* The most important thing you can learn is personal responsibility.
+* Bad things happen; it's your job to overcome them.
+* You do what needs to be done without complaining.
 * Never stop learning.
 * Don't change yourself just to make someone happy.
 * If you're the smartest person in the room, you're in the wrong room.
