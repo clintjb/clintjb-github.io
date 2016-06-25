@@ -24,3 +24,7 @@ Just some of my personal notes on temps and times while BBQ'ing
 #### Chicken Wings
 * @ 110 Degrees
 * 2 Hours
+
+#### Chicken Legs
+* @ 110 Degrees
+* 3 Hours
