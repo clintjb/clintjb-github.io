@@ -8,7 +8,7 @@ comments: true
 <figure>
 	<img src="/images/posts/2016/curry.jpg">
 </figure>
-This is based on a family recipe I was given by a good friend (you should check out his blog [here] (www.jyothisnair.com) for other cool stuff.) I've butchered it a bit since then to be a little more "friendly" for the rest of my family who's not so much into the spiciness. 
+This is based on a family recipe I was given by a good friend (you should check out his blog [here](www.jyothisnair.com) for other cool stuff.) I've butchered it a bit since then to be a little more "friendly" for the rest of my family who's not so much into the spiciness. 
 
 * 600-700gm Chicken
 * Masala or Tandoori curry spice
