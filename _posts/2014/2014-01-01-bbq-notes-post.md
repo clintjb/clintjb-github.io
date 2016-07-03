@@ -18,13 +18,13 @@ Just some of my personal notes on temps and times while BBQ'ing
 * (Next Time Just The First 3 Hours)
 
 #### Pulled Pork
-Put on @ 9:00 - 2.7kgs
 * Inject & Apply light mustard coat and rub the evening before (wrap in plastic)
 * @ 107 Degrees
 * Mop every 45mins or so
 * Wrap once internal temp of 70 Degrees is achieved
 * Unwrap once it hits 90 degrees
 * 30 Mins Unwrapped
+* (Next Time Plan For 12 Hours With 2.7kgs)
 
 #### Brisket
 
