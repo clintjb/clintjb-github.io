@@ -20,9 +20,9 @@ I received this from a colleague which I thought was well worth the 5 minutes to
 > The way many of us brainstorm often gives the whole experience a bad rap: We typically envision a brainstorming session as an unstructured scene where wild ideas are thrown around in an ad hoc way—where anything goes. But at Google, while we’ve learned that freestyle brainstorming is the basis of innovation, it doesn't turn into substantive action without some structure.
 > 
 > That's why we’ve created a linear process for brainstorming new ideas and turning them into actual products:
-> 1. Know the user
-> 2. Think 10x
-> 3. Prototype
+>  * Know the user
+>  * Think 10x
+>  * Prototype
 > 
 > If that looks simple, it is—but you have to execute each step the right way.
 >
