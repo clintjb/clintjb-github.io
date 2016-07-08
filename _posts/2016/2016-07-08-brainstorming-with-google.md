@@ -44,6 +44,7 @@ Ill definitely be trying this out at our next DtC workshop...
 > </figure>
 >
 > The next step is to have all participants write down their ideas individually before getting back together as a group and deciding which ones to pursue. Here's the thing to understand before you do that, though: 10x thinking sounds great in theory, but not everyone quite knows how to put it into action. So when team members reconvene with their sticky notes and the most productive part of the brainstorming process kicks into gear, make sure to follow these six guidelines:
+>
 > * Build on each others’ ideas. It's easy to kill an idea, so especially in the early stages, systematically follow up ideas with, "yes, and" instead of shooting them down with "no, but" comments.
 > * Generate lots of ideas. At this point quantity is more important than quality, so really let loose. Time to grab a pile of sticky notes or your favorite note-taking app. The best way to have a great idea is to have many ideas.
 > * Write headlines. Being able to describe an idea in less than six words helps you clarify it. Imagine your favorite media outlet or magazine covers your great idea: What would you want the headline to read?
