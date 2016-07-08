@@ -9,7 +9,9 @@ comments: true
 	<img src="/images/posts/2016/brainstorming.jpg">
 </figure>
 
-I received this from a colleague which I thought was well worth the 5 minutes to read. I think for a lot of industries (mine included) you could replease "know the user" with "know the problem" - Originally it was from over here at [Fast Company](http://www.fastcompany.com/3061059/your-most-productive-self/how-to-brainstorm-like-a-googler) | Ill definitely be trying this out on our next DtC workshop.
+I received this from a colleague which I thought was well worth the 5 minutes to read. I think for a lot of industries (mine included) you could replease "know the user" with "know the problem" - Originally it was from over here at [Fast Company](http://www.fastcompany.com/3061059/your-most-productive-self/how-to-brainstorm-like-a-googler)
+
+Ill definitely be trying this out at our next DtC workshop...
 
 > Here at Google, we don't have a secret formula for innovation. But that doesn't mean Googlers' best ideas are ineffable mysteries. On the contrary, we've found they can be systematically coaxed into being and steadily improved upon. And so can yours.
 > 
@@ -20,6 +22,7 @@ I received this from a colleague which I thought was well worth the 5 minutes to
 > The way many of us brainstorm often gives the whole experience a bad rap: We typically envision a brainstorming session as an unstructured scene where wild ideas are thrown around in an ad hoc way—where anything goes. But at Google, while we’ve learned that freestyle brainstorming is the basis of innovation, it doesn't turn into substantive action without some structure.
 > 
 > That's why we’ve created a linear process for brainstorming new ideas and turning them into actual products:
+>
 >  * Know the user
 >  * Think 10x
 >  * Prototype
