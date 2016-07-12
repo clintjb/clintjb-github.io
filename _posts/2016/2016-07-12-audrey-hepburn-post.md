@@ -10,7 +10,7 @@ comments: true
 </figure>
 She was spontaneous right from her first major role in "Roman Holiday," played sly comedy in "Sabrina" and showed a range of feeling in "Breakfast at Tiffany's." There's something really charming about the lady that's impossible to put your finger on.
 
-Anyway I really quite like these illustrations and think they capture her quite well.
+With that said, I really quite like these illustrations and find they capture her and the charm quite well.
 
 Cheers,
 
