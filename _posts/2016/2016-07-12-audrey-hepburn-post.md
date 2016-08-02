@@ -8,9 +8,9 @@ comments: true
 <figure>
 	<img src="/images/posts/2016/audrey.jpg">
 </figure>
-She was spontaneous right from her first major role in "Roman Holiday," played sly comedy in "Sabrina" and showed a range of feeling in "Breakfast at Tiffany's." There's something really charming about the lady that's impossible to put your finger on.
+She was spontaneous right from her first major role in "Roman Holiday," played sly comedy in "Sabrina" and showed a range of feeling in "Breakfast at Tiffany's." There's something incredibly charming about the lady that's impossible to put your finger on.
 
-With that said, I really quite like these illustrations and find they capture her and that charm quite well.
+I really quite like all these illustrations and find they capture her and that spark quite well.
 
 Cheers,
 
