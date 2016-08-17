@@ -9,7 +9,7 @@ comments: true
 	<img src="/images/posts/2016/iphone-1.jpg">
 </figure>
 
-A fantastic analysis that was originally posted in the [Technology Review](https://www.technologyreview.com/s/601491/the-all-american-iphone/) - Too often we make assumptions about things without really diving into it to understand what's really at the core (I see this quite often when reviewing business cases for improvement modifications)
+A fantastic analysis that was originally posted in the [Technology Review](https://www.technologyreview.com/s/601491/the-all-american-iphone/) - Too often we make business decisions/assumptions based on common rhetoric without really diving into or challenging it to understand what's really at the core (I see this quite often when reviewing business cases for improvement modifications)
 
 This is really a nice piece of work, just to remind you to not necessarily always accept the usual assumptions as facts.
 
