@@ -4,5 +4,5 @@ title: Mini
 excerpt: "A list of posts realted to my mini restoration"
 tag: "mini"
 image:
-  feature: header-stuff.jpg
+  feature: header-mini.jpg
 ---
