@@ -6,7 +6,7 @@ tags: [mini, cooper, 1275, restoration, bought, 1992]
 comments: true 
 ---
 <figure>
-	<img src="/images/posts/mini/mini.jpg">
+	<img src="/images/posts/mini/mini.JPG">
 </figure>
 
 In the past few months, we've been discussing that we will need a second car, mainly due to some new working arrangements. As I've always had a soft-spot for original (Pre-BMW) Minis, I thought now would be as good a time as any to bite the bullet and get one. 
@@ -18,16 +18,16 @@ So over the past few months, I've been looking all over Europe and finally found
 Having a better look over it this week I've taken some photos of all the rust spots I've found - nothing ridiculous but work to be done. Paints OK, but far from great when you look up close.
 
 <figure>
-	<img src="/images/posts/mini/mini-1.jpg">
-	<img src="/images/posts/mini/mini-2.jpg">
-	<img src="/images/posts/mini/mini-3.jpg">
-	<img src="/images/posts/mini/mini-4.jpg">
-	<img src="/images/posts/mini/mini-5.jpg">
-	<img src="/images/posts/mini/mini-6.jpg">
-	<img src="/images/posts/mini/mini-7.jpg">
-	<img src="/images/posts/mini/mini-8.jpg">
-	<img src="/images/posts/mini/mini-9.jpg">
-	<img src="/images/posts/mini/mini-10.jpg">
+	<img src="/images/posts/mini/mini-1.JPG">
+	<img src="/images/posts/mini/mini-2.JPG">
+	<img src="/images/posts/mini/mini-3.JPG">
+	<img src="/images/posts/mini/mini-4.JPG">
+	<img src="/images/posts/mini/mini-5.JPG">
+	<img src="/images/posts/mini/mini-6.JPG">
+	<img src="/images/posts/mini/mini-7.JPG">
+	<img src="/images/posts/mini/mini-8.JPG">
+	<img src="/images/posts/mini/mini-9.JPG">
+	<img src="/images/posts/mini/mini-10.JPG">
 </figure>
 
 Its interior really needs some work - it's missing a headliner / seats aren't great / stereo doesn't work and noisy as hell. 
