@@ -40,7 +40,7 @@ Cheers, Clint
 
 ## Accounting
 ![Wharton](/images/mba/wharton.jpg){: style="float:right"}
-**An Introduction to Financial Accounting (Wharton University)**
+**Financial Accounting (Wharton University)**
 
 Master the technical skills needed to analyze financial statements and disclosures for use in financial analysis, and learn how accounting standards and managerial incentives affect the financial reporting process. By the end of this course, you’ll be able to read the three most common financial statements: the income statement, balance sheet, and statement of cash flows.
 
@@ -108,7 +108,7 @@ This course will be broken up into 8 modules covering the following topics:
 
 ## Finance
 ![Wharton](/images/mba/wharton.jpg){: style="float:right"}
-**An Introduction to Corporate Finance (Wharton University)**
+**Corporate Finance (Wharton University)**
 
 This course provides a brief introduction to the fundamentals of finance, emphasizing their application to a wide variety of real-world situations spanning personal finance, corporate decision-making, and financial intermediation. Key concepts and applications include: time value of money, risk-return tradeoff, cost of capital, interest rates, retirement savings, mortgage financing, auto leasing, capital budgeting, asset valuation, discounted cash flow (DCF) analysis, net present value, internal rate of return, hurdle rate, payback period.
 
@@ -128,7 +128,7 @@ This course will be broken up into 4 modules covering the following topics:
 
 ## Marketing
 ![Wharton](/images/mba/wharton.jpg){: style="float:right"}
-**An Introduction to Marketing (Wharton University)**
+**Marketing (Wharton University)**
 
 This Wharton course will teach the fundamentals of marketing by getting to the root of customer decision making. The course will focus on branding strategies, customer centricity and new market entry.
 
@@ -171,7 +171,7 @@ This course will be broken up into 6 modules covering the following topics:
 
 ## Operations
 ![Wharton](/images/mba/wharton.jpg){: style="float:right"}
-**An Introduction to Operations Management (Wharton University)**
+**Operations Management (Wharton University)**
 
 This course will teach you how to analyze and improve business processes, be it in services or in manufacturing. You will learn how to improve productivity, how to provide more choice to customers, how to reduce response times, and how to improve quality.
 
