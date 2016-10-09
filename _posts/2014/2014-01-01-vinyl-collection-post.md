@@ -6,13 +6,13 @@ tags: [pop culture, stuff, vinyl, LP, collection]
 comments: true
 ---
 <figure>
-	<img src="/images/posts/2014/vinyls.jpg">
+	<img src="/images/posts/2014/vinyl.jpg">
 </figure>
 
 More details in my Discogs collection [here](https://www.discogs.com/user/clintjb/collection).
 
 <figure class="third">
-	<img src="/images/posts/vinyl/vehicles-1.jpg">
+	<img src="/images/posts/vinyl/kanye - mbdtf.jpg">
 	<img src="/images/posts/2016/vehicles-2.jpg">
 	<img src="/images/posts/2016/vehicles-3.jpg">
 	<img src="/images/posts/2016/vehicles-6.jpg">
