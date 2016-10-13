@@ -13,4 +13,7 @@ More details in my Discogs collection [here](https://www.discogs.com/user/clintj
 
 <figure class="third">
 	<img src="/images/posts/vinyl/kanye - mbdtf.jpg">
+	<img src="/images/posts/vinyl/dp - discovery.jpg">
+	<img src="/images/posts/vinyl/jz - gray.jpg">
+	<img src="/images/posts/vinyl/u2 - 18.jpg">
 </figure>
