@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "Life Coach"
-excerpt: "Some awesome "motivational" illustrations"
+excerpt: "Some awesome 'motivational' illustrations"
 tags: [pop culture, stuff, illustration, motivation, funny]
 comments: true 
 ---
