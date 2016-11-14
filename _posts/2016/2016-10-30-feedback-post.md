@@ -31,11 +31,11 @@ A post I read the other morning that was featured on [HBR](https://hbr.org/2016/
 >
 > Ask for focused feedback. Ask 10 or more people — including coworkers, friends, and family — how good you are at giving feedback. Ask for specific details and examples. What was the context, what happened, and what did you do to make others respond positively to your (negative or positive) feedback? Look closely for recurring commonalities. Ideally, you’ll home in on a couple of specific areas for improvement. Then use leadership coach Marshall Goldsmith’s “feed forward” process, which involves five steps:
 >
-> * Describe your goal clearly. Explain that you want to provide critical feedback better. You don’t want to offend people or have them become defensive. You have heard repeatedly that you are abrasive and your feedback stings.
+> * Describe your goal clearly. Explain that you want to provide critical feedback better. You don’t want to offend people or have them become defensive. You have heard repeatedly that you are abrasive and your feedback stings
 > * Ask for suggestions. Encourage creativity. How can you connect better with employees generally, such that they feel that you care about them and their development? Employees may be less defensive when you give them critical feedback. Ask if they notice anything in particular that is responsible for you being perceived as abrasive. What specifically do they recommend that you do differently?
-> * Listen carefully.
-> * Thank the person. Tell the person that you appreciate them taking the time to help you and to offer specific suggestions. You might mention that you are going to check in to see how you’re progressing. Don’t make excuses or get defensive.
-> * Repeat this process with additional people.
+> * Listen carefully
+> * Thank the person. Tell the person that you appreciate them taking the time to help you and to offer specific suggestions. You might mention that you are going to check in to see how you’re progressing. Don’t make excuses or get defensive
+> * Repeat this process with additional people
 >
 > If you use this approach, you’ll wind up with concrete suggestions from a number of people invested in your success. Check in periodically with these people, because they can help you gauge your improvement over time.
 >
