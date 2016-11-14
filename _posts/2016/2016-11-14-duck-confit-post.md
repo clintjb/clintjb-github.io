@@ -1,14 +1,14 @@
 ---
 layout: post
 title: "Duck Confit"
-excerpt: "Perfect injection to keep your cuts juicy during smoking"
+excerpt: "'Confit de canard' my French favourite"
 tags: [cooking, duck, canard, confit, French, recipe]
 comments: true
 ---
 <figure>
 	<img src="/images/posts/2016/confit.jpg">
 </figure>
-My confit recipe I end up cooking every November so its ready just in time for those cold months.
+My confit recipe I end up cooking every November so its cured and ready just in time for those cold months.
 
 * 4 duck legs
 * 2 bay leaves crushed
