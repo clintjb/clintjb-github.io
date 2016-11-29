@@ -1,7 +1,7 @@
 ---
 layout: post
-title: "Education"
-excerpt: "Quote from Albert Einstein"
+title: "The Lightbulb"
+excerpt: "Quote from Oren Harari"
 tags: [business, candle, quote, innovation, light, bulb, continuous improvement]
 comments: true
 ---
