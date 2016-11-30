@@ -9,7 +9,7 @@ comments: true
 	<img src="/images/posts/2016/brainstorming.jpg">
 </figure>
 
-I received this from a colleague which I thought was well worth the 5 minutes to read. I think for a lot of industries (mine included) you could replease "know the user" with "know the problem" - Originally it was from over here at [Fast Company](http://www.fastcompany.com/3061059/your-most-productive-self/how-to-brainstorm-like-a-googler)
+I received this from a colleague which I thought was well worth the 5 minutes to read. I think for a lot of industries (mine included) you could replace "know the user" with "know the problem" - Originally it was from over here at [Fast Company](http://www.fastcompany.com/3061059/your-most-productive-self/how-to-brainstorm-like-a-googler)
 
 Ill definitely be trying this out at our next DtC workshop...
 
