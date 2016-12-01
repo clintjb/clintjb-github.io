@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "Budgets"
-excerpt: "budget deficits simplified"
+excerpt: "Budget deficits simplified"
 tags: [business, budget, credit, crisis, financial, government, simple, deficit, explanation]
 comments: true 
 ---
