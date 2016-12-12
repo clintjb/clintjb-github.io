@@ -9,21 +9,29 @@ comments: true
 	<img src="/images/posts/2016/happy.jpg">
 </figure>
 
-Happiness as a subject is something that deeply intrigues me. To attempt to understand, the root nature of what makes us happy, our existence, and all that other stuff that goes along with it. I've spent a lot of time reflecting on these points and read a lot of different texts on the subject; from eastern and western philosophy, scientific, religious etc. It really is a subject I find incredibly difficult to grasp.
+Happiness as a subject is something that deeply intrigues me. To attempt to understand, the root nature of what makes us happy, our existence, and all that other stuff that goes along with it. I've spent a lot of time reflecting on these points and read a lot of different texts on the subject; from eastern and western philosophy, scientific, religious etc. 
+
+It really is a subject I find incredibly difficult to grasp.
 
 This was a small article that I came across the other day - again it's no sure answer, but it is at least another perspective; and one that I at least found to be quite contemplative (I've edited it down a bit just to focus the article a touch more on what I found to be of the most value)
 
 > For the longest time, I believed that there’s only one purpose in life: And that is to be happy. Right? Why else go through all the pain and hardship? It’s to achieve happiness in some way. And I’m not the only person who believed that. In fact, if you look around you, most people are pursuing happiness in their lives.
+>
 > That’s why we collectively buy stuff we don’t need, stay with people we don’t love, and try to work hard to get the approval of people we don’t like.
+>
 > Why do we do these things? To be honest, I don’t care what the exact reason is. I’m not a scientist. We are who we are. Let’s just accept that. Most people love to analyze why people are not happy or don’t live fulfilling lives. I don’t necessarily care about the why. I care more about how we can change.
+>
 > Just a few short years ago, I did everything to chase happiness.
+>
 > * You buy something, and you think that makes you happy.
 > * You hook up with people, and think that makes you happy.
 > * You get a well-paying job you don’t like, and think that makes you happy.
 > * You go on holiday, and you think that makes you happy.
+>
 > But at the end of the day, you’re lying in your bed (alone or next to your spouse), and you think: “What’s next in this endless pursuit of happiness?” Well, I can tell you what’s next: You, chasing something random that you believe makes you happy. It’s all a façade. A hoax. A story that’s been made up.
 >
 > But here’s the thing: How do you achieve happiness? Happiness can’t be a goal in itself. Therefore, it’s not something that’s achievable. I believe that happiness is merely a by-product of usefulness. When I talk about this concept with friends, family, and colleagues, I always find it difficult to put this into words. But I’ll give it a try here. Most things we do in life are just activities and experiences.
+>
 > * You go on holiday.
 > * You go to work.
 > * You go shopping.
