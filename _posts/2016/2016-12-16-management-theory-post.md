@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Management Theory & Its Compendium Of Dead Ideas"
+title: "Management Theory & The Dead Ideas"
 excerpt: "What luther did for the catholic church needs to be done to business gurus"
 tags: [business, management theory, luther, strategy, consultants, economics]
 comments: true 
