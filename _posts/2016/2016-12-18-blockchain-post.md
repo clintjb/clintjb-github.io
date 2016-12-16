@@ -26,7 +26,9 @@ So let me get in first by saying this one's quite a long article that will take 
 > 
 > In the winter of 2014, Ukraine was on the brink of revolution. Protesters in Kiev held signs for the television cameras asking for money. (See image below.) The signs bore a QR code that allowed donors to send bitcoin to the protest movement. Thousands around the world pointed their cellphone cameras at the on-screen video and made donations with literally three clicks. The transactions were communicated in 20 seconds and confirmed within ten minutes at a cost of a fraction of a cent per dollar. They were anonymous: the government could not monitor them, and the recipients did not know whom to thank.
 > 
-><img src="/images/posts/2016/blockchain-1.jpg">
+><figure class="third">
+	<img src="/images/posts/2016/blockchain-1.jpg">
+></figure>
 > 
 > A donor could have made the same gift through the banking system, but that would have required detailed (and politically compromising) information about the recipient’s bank account, if he or she had one. It would have cost a commission of 10% or more, and taken three or four days to complete. PayPal, of course, would have been quicker and cheaper but was banned by the Ukrainian government. Paying with bitcoin was direct, anonymous, and irrevocable—like a sympathetic onlooker crossing Maidan Nezalezhnosti, the central square in Kiev, and dropping a couple of hryvnia into a plastic cup.
 > 
@@ -48,7 +50,9 @@ So let me get in first by saying this one's quite a long article that will take 
 > 
 > Memory and storage are now following that same pattern. With cost per terabyte in free fall, the first response is to accumulate more data—hence, big data. But what can you create if you waste storage? Bitcoin, for one thing. The Bitcoin blockchain provides an inviolable record of each bitcoin’s history at the cost of storing each transaction record 5,700 times over.
 > 
-><img src="/images/posts/2016/blockchain-2.png">
+><figure class="third">
+	<img src="/images/posts/2016/blockchain-2.png">
+></figure>
 > 
 > Thus blockchain is the disruptive technology for storage, as the PC was for computation and the internet for communication. It is the last response to the transformative power of the big exponentials.
 > 
@@ -75,33 +79,43 @@ So let me get in first by saying this one's quite a long article that will take 
 > With Bitcoin, the economics of each layer are radically different:
 > 
 > * Blockchain
+> 
 > At the bottom of the stack is the Bitcoin blockchain: a database of all transactions, grouped into “blocks” and replicated across thousands of “nodes.” It is monolithic and scale sensitive (there is only one), and it becomes more reliable and robust as the number of nodes (currently 5,700) and the number of blocks (currently 430,000) continue to grow. Physically, these nodes are racks of dedicated computing devices, operated in data centers owned by so-called mining pools and concentrated mainly in China. Mining is a for-profit, commodity business.
 > 
 > * Protocol
+> 
 > The Bitcoin protocol—its “operating system”—sits on top of the blockchain. This is free, open-source software, maintained by the Bitcoin Core team. Like Linux, it has the strengths of the open-source “business model”: rigorous code testing by all comers, rapid improvement cycles, and trust in the collective product because nobody owns it. It also has the model's weakness: the difficulty of making strategic choices by consensus.
 > 
 > * Tokens
+> 
 > Bitcoins themselves are the next layer. They are tokens that are exchanged within the system and minted by miners as a reward for validating transactions. Like any medium of exchange, the tokens have value only because people think that other people think they have value. The first known bitcoin purchase occurred in 2010, when Hacker Laszlo Hanyecz bought a couple of Papa John’s pizzas with 10,000 freshly mined bitcoins. Today those bitcoins are worth more than $6 million.
 > 
 > * Applications and Services
-Applications and services make up the top layer and consist of “wallets” (software to hold and manage bitcoins on a smartphone or computer); exchanges that convert bitcoins to and from fiat currency; and information services. There are hundreds of such products and services, chiefly developed by startup companies.
 > 
-><img src="/images/posts/2016/blockchain-3.png">
+> Applications and services make up the top layer and consist of “wallets” (software to hold and manage bitcoins on a smartphone or computer); exchanges that convert bitcoins to and from fiat currency; and information services. There are hundreds of such products and services, chiefly developed by startup companies.
+> 
+><figure class="third">
+	<img src="/images/posts/2016/blockchain-3.png">
+></figure>
 > 
 > The bottom of the stack, the Bitcoin blockchain, is extraordinarily secure. The total value of all bitcoin—some $10 billion—is a sufficiently rich honeypot to have tempted the best hackers in the world, yet the blockchain has never been successfully attacked. The top of the stack is another story, with claims of incompetence and criminality circulating around such well-known failures as Mt Gox and Silk Road. But the beauty of stacked architecture is that the moral and economic frailty at the top does not compromise the revolutionary robustness at the bottom.
 > 
 > As shown, this stacked architecture defines the recombinatorial framework within which new currencies, new services, and entirely new concepts have been developed:
 > 
 > * Colored Coins
+> 
 > Colored coins are top-of-stack innovations that exploit a blank field within each bitcoin to record unrelated data. The UK-based company Everledger, for instance, initially leveraged bitcoins to put “bling on the blockchain” by recording some 40 unique, laser-read identifiers of a diamond, providing proof of provenance and ownership. The bitcoin was not used to buy the diamond, just to create an inviolable record of the transfer of a specific authenticated stone. The same approach could be used to track any valuable asset with a complex transaction history.
 > 
 > * Altcoin
+> 
 > Altcoins borrow most or all of the Bitcoin protocol to create a separate token with its own stack. Many are exotically named jokes or Ponzi schemes: BaconBitsCoin (symbol: YUM), Kimdotcoin (KOIN), and Zombiecoin (ZMB), among others. However, some are more ambitious tweaks on the Bitcoin protocol. Litecoin, for example, is designed to produce blocks at a faster rate and with less computation than Bitcoin, and Monero pools transactions to prevent even pseudonymous tracing of payments.
 > 
 > * Ethereum
+> 
 > Ethereum is an entirely new stack, which only a year after its launch, in July 2015, had a market value of nearly $1 billion. Many call it Bitcoin 2.0. Ethereum has its own blockchain and token (ether), and a protocol that supports not just payments but programmable transactions: “smart contracts” that are executed in code, not law. Its creator, Vitalik Buterin, describes Ethereum as “the world computer.” Ethereum has nurtured a rapidly growing ecosystem of applications, with (perhaps predictably) mixed results. Notably, The DAO (a DAO is a decentralized autonomous organization) was an attempt to build a venture funding “company” from Ethereum smart contracts alone. In June 2016, after raising an unprecedented (and unanticipated ) $130 million in ether, it was defrauded and collapsed. But the vulnerability was in the DAO programming. Open-source developers building applications beyond payments continue to focus on Ethereum as their preferred platform.
 > 
 > * Permissioned Blockchains
+> 
 > Permissioned blockchains deviate substantially from the open Bitcoin paradigm, restricting certain roles or access to a club of participants, typically financial institutions. Only members are variously allowed to inspect the blockchain, engage in transactions, and operate as a processing node. Permissioned blockchains allow transactions to be written in legal language as well as in computer code; they also enable regulatory review. Today they are only at the proof-of-concept stage, but consortia such as R3 CEV in banking and many financial technology companies are focused on making permissioned blockchains a reality, especially for clearing and settling transactions in securities and foreign exchange.
 > 
 > Distributed ledgers are often described as a “trustless” systems, but that is not quite right. More precisely, their locus of trust moves to the periphery.
@@ -110,11 +124,15 @@ Applications and services make up the top layer and consist of “wallets” (so
 > 
 > This leads to what we might term a Coasean theory of blockchains. Ronald Coase famously posited that corporations exist to economize on the transaction costs of markets. But when some degree of scale is reached, organizational complexity overwhelms. The optimal size of the company, according to Coase, is therefore the point at which the incremental benefit from transaction cost savings is offset by the incremental cost of complexity.
 > 
-><img src="/images/posts/2016/blockchain-4.png">
+><figure class="third">
+	<img src="/images/posts/2016/blockchain-4.png">
+></figure>
 > 
 > Blockchains similarly exist to economize on transaction costs: they protect a common database from failure or attack; they eliminate duplicate record keeping and associated delays and errors; and they convey trust transitively across the network. But the larger or more comprehensive the blockchain, the less trustworthy is the data entered by the least trustworthy member. Thus, the optimal size of a blockchain is determined by the trade-off between transaction costs, which improve with scale, and peripheral trust, which deteriorates.
-> 
-><img src="/images/posts/2016/blockchain-5.png">
+>
+><figure class="third">
+	<img src="/images/posts/2016/blockchain-5.png">
+></figure>
 > 
 > This is not mere theory. One of the most scrutinized uses of a blockchain is for the clearing and settlement of securities transactions, currently a complex network of brokers, custodian banks, stock transfer agents, regulators, and depositories. A single transfer can require a dozen intermediary transactions, and typically takes three days. Some 20% generate errors, which must be corrected by hand.
 > 
@@ -155,15 +173,19 @@ Applications and services make up the top layer and consist of “wallets” (so
 > The broad components of a scalability solution are widely recognized but have not as yet been implemented:
 > 
 > * Proof-of-Stake
+> 
 > Under this protocol, a string of blocks is deemed valid only if the nodes creating it demonstrate sufficient ownership of the asset represented by the token to give them a compelling motive not to subvert its value. Proof-of-stake would radically reduce computing and transaction costs, enabling blockchains to facilitate much smaller transactions.
 > 
 > * Channels
+> 
 > Channels are another layer in the stack. A subgroup of parties transacts directly but commits only a small fraction of transaction data to the main blockchain. Channels can thus proliferate without burdening the main blockchain and while still enjoying some of its security. There are many variants on this idea, such as the proposed Lightning Network for Bitcoin.
 > 
 > * Sidechains
+> 
 > Closely related to channels, sidechains are blockchains in their own right. They create and destroy their internal token as a mirror of a transaction that immobilizes an equivalent on the main chain. This effectively allows users to move tokens from the main chain to sidechains and back again. The sidechain can operate on any principle whatsoever: lower security for minuscule transactions, fast block creation, smart contracts. It can even be a closed, permissioned chain.
 > 
 > * Sharing
+> 
 > This is an approach that preserves a single global blockchain, but not all nodes validate all transactions. It sacrifices a measure of security for the benefits of scalability.
 > 
 > These developments are at the cutting edge of blockchain research and experimentation. The Bitcoin Core leadership is moving cautiously in these directions, as befits a blockchain advantaged for its security. The Ethereum developer community is moving much faster: the 2017 Release 2.0, code-named Serenity, will be explicitly built on all four design principles.
@@ -173,22 +195,27 @@ Applications and services make up the top layer and consist of “wallets” (so
 > There are five broad principles that will shape strategy for token and blockchain technologies.
 > 
 > * Blockchain strategy is more about collaborating than competing.
+> 
 > It makes sense to expend resources on digital tokens and blockchains only when multiple entities are transacting at high cost and with imperfect trust. Therefore, the implementation opportunity presents itself to the entire transaction network, not to an individual participant. Global enterprise technology companies are investing to build alliances among their customers that could underpin transaction platforms in fragmented industries such as health care and international trade. Hundreds of Silicon Valley startups are focused on the same goal, or at least on advancing far enough to get themselves acquired. These will be decade-long projects. Participants in those fragmented industries need to decide whether the gains in growth and efficiency are worth the risk of being at least partially commoditized by a new, dominant transaction platform—and, if not, whether they can act in concert (as banks are attempting to do) in order to protect their autonomy.
 > 
 > * Organization as much as technology will determine the relative advantage of blockchains
+> 
 > A central conflict over the next few years will be between permissioned blockchains curated by coalitions of intermediaries and the far more radical program to give end users direct access through open protocols. Oligopoly versus democracy, as some would have it.
 > 
 > In many intermediary industries such as financial services, incumbents are rationally responding by adopting the technology among themselves. But it is a big and open question whether that will ultimately suffice. Open blockchains enjoy an advantage in scale: they have more blocks, more nodes, and more rigorous validation. By design, they can add participants less constrained by diminishing peripheral trust. But permissioned blockchains have an advantage in scalability relative to their target transaction network. They need fewer participants and can dispense with nonscalable features such as proof-of-work. So whether and when the status quo is disrupted—and by how much—depends less on the absolute pace of technical advance than on the relative pace at which private and public implementations advance. And that is largely a contest of political organization. Industry consortia need to work together when their members are otherwise competing. And open communities need to stick to a single script when individuals have diverse ideological commitments and are tempted to fork the codebase. The strategist needs to understand both, intimately, and be clear-headed about which camp holds the winning hand.
 > 
 > * Government is a wild card.
+> 
 > The current regulatory climate is surprisingly favorable. Bitcoin is legal in most jurisdictions, regulated as a commodity but not as a financial instrument. The primary focus of regulation is the top of the stack (exchanges, in particular) rather than the bottom (blockchains). Indeed, blockchains facilitate regulatory goals: they reduce counterparty risk, can comply with know-your-customer and anti-money-laundering rules, and can provide an efficient “backdoor” access to transactions. But of course the regulatory climate could change quite suddenly, especially in the face of security vulnerabilities.
 > 
 > On top of that, governments themselves could drive transformative blockchain applications in identity, health care, and digital currency. They have the incentive and the critical mass. Many policymakers see this kind of technology as the catalyst for broader economic stimulus, job creation, and national competitive advantage. Some countries are more likely to think that way than others.
 > 
 > * Financial signals are problematic.
+> 
 > There are already murmurs in some boardrooms that the ROI on these technologies is not that impressive. Highfalutin rhetoric about embracing digital disruption notwithstanding, incumbents have little incentive to collaborate and invest to create a level playing field that merely lowers industry prices. Executives have to believe either that such innovation will open new markets or that it is a necessary response to a real disruptive threat. Otherwise, it is easy to imagine the majority quietly shelving the technology and the grand industry coalitions falling apart. A few “visionary” CEOs will ignore their bean counters. If the disrupters later succeed, those visionaries will become the heroes of business school case studies—and if not, the fools.
 > 
 > * Radical uncertainty is the norm.
+> 
 > It only takes one really compelling and broad-based application, one killer app, to drive widespread adoption and pull through complementary infrastructure, products, and services. All we know is that it’s not bitcoin, the currency.
 > 
 > Conversely, some hacker could find an irreparable security flaw: not enough to deter enthusiasts, perhaps, but sufficient to spook the regulators. Or scalability could prove an insuperable problem.
@@ -200,12 +227,15 @@ Applications and services make up the top layer and consist of “wallets” (so
 > As with any early-stage technology subject to network effects and strongly increasing returns, the business equilibrium is radically unstable. Strategy cannot be based on a “point estimate” of what the future will look like, whether derived from financial projections or a grand vision. Instead, strategy under conditions of uncertainty must focus on acuity, options, and experimentation.
 > 
 > * Acuity.
+> 
 > Your organization needs to know its environment intimately: the technology, competitive moves, alliance politics, crazy startups, and shifts in public policy. Look out for discontinuities. Some open blockchain protocol could eclipse the closed efforts of an industry consortium; some government-sponsored initiative on the other side of the world could catalyze a killer app. Some breakthrough in encryption—or decryption—could transform security or scalability. Some development in another industry could wash over yours, the way whole industries became mere apps on the PC or the internet. Acuity cannot be delegated, because the correct framing of the threats and priorities is not yet apparent. Senior managers need to be part of a process of continuous learning. 
 > 
 > * Options.
+> 
 > In strategy as in finance, the greater the uncertainty the greater the value of having options. Options are an investment whether they pan out or not; it is false economy to skimp or delay until the outcome is evident. So at the risk of redundancy, and even of supporting contradictory or competitive initiatives, invest broadly. Buy into a portfolio of alternative technologies. Join industry alliances and consortia: membership will give your organization early participation in whatever succeeds, the chance to learn, and an opportunity to shape the group’s priorities from the earliest stages.
 > 
 > * Experimentation.
+> 
 > Apply “agile” principles to the development of small-scale token and blockchain applications. Experiments matter because they can point to a “strategy” and also because the very practice builds operational capability and confidence. MIT's David Clark famously articulated the mantra of the early internet community as “rough consensus and running code".
 > 
 > So stay close to the coders, the entrepreneurs, and the policymakers. Keep your options open. Experiment. These are the watchwords for thinking outside the blocks. And they are better guides to strategy than the airy enthusiasm of evangelists or the myopia of bean counters.
