@@ -26,9 +26,9 @@ So let me get in first by saying this one's quite a long article that will take 
 > 
 > In the winter of 2014, Ukraine was on the brink of revolution. Protesters in Kiev held signs for the television cameras asking for money. (See image below.) The signs bore a QR code that allowed donors to send bitcoin to the protest movement. Thousands around the world pointed their cellphone cameras at the on-screen video and made donations with literally three clicks. The transactions were communicated in 20 seconds and confirmed within ten minutes at a cost of a fraction of a cent per dollar. They were anonymous: the government could not monitor them, and the recipients did not know whom to thank.
 > 
-><figure class="third">
+> <figure>
 	<img src="/images/posts/2016/blockchain-1.jpg">
-></figure>
+> </figure>
 > 
 > A donor could have made the same gift through the banking system, but that would have required detailed (and politically compromising) information about the recipient’s bank account, if he or she had one. It would have cost a commission of 10% or more, and taken three or four days to complete. PayPal, of course, would have been quicker and cheaper but was banned by the Ukrainian government. Paying with bitcoin was direct, anonymous, and irrevocable—like a sympathetic onlooker crossing Maidan Nezalezhnosti, the central square in Kiev, and dropping a couple of hryvnia into a plastic cup.
 > 
@@ -50,9 +50,9 @@ So let me get in first by saying this one's quite a long article that will take 
 > 
 > Memory and storage are now following that same pattern. With cost per terabyte in free fall, the first response is to accumulate more data—hence, big data. But what can you create if you waste storage? Bitcoin, for one thing. The Bitcoin blockchain provides an inviolable record of each bitcoin’s history at the cost of storing each transaction record 5,700 times over.
 > 
-><figure class="third">
+> <figure>
 	<img src="/images/posts/2016/blockchain-2.png">
-></figure>
+> </figure>
 > 
 > Thus blockchain is the disruptive technology for storage, as the PC was for computation and the internet for communication. It is the last response to the transformative power of the big exponentials.
 > 
@@ -94,9 +94,9 @@ So let me get in first by saying this one's quite a long article that will take 
 > 
 > Applications and services make up the top layer and consist of “wallets” (software to hold and manage bitcoins on a smartphone or computer); exchanges that convert bitcoins to and from fiat currency; and information services. There are hundreds of such products and services, chiefly developed by startup companies.
 > 
-><figure class="third">
+> <figure>
 	<img src="/images/posts/2016/blockchain-3.png">
-></figure>
+> </figure>
 > 
 > The bottom of the stack, the Bitcoin blockchain, is extraordinarily secure. The total value of all bitcoin—some $10 billion—is a sufficiently rich honeypot to have tempted the best hackers in the world, yet the blockchain has never been successfully attacked. The top of the stack is another story, with claims of incompetence and criminality circulating around such well-known failures as Mt Gox and Silk Road. But the beauty of stacked architecture is that the moral and economic frailty at the top does not compromise the revolutionary robustness at the bottom.
 > 
@@ -124,15 +124,15 @@ So let me get in first by saying this one's quite a long article that will take 
 > 
 > This leads to what we might term a Coasean theory of blockchains. Ronald Coase famously posited that corporations exist to economize on the transaction costs of markets. But when some degree of scale is reached, organizational complexity overwhelms. The optimal size of the company, according to Coase, is therefore the point at which the incremental benefit from transaction cost savings is offset by the incremental cost of complexity.
 > 
-><figure class="third">
+> <figure>
 	<img src="/images/posts/2016/blockchain-4.png">
-></figure>
+> </figure>
 > 
 > Blockchains similarly exist to economize on transaction costs: they protect a common database from failure or attack; they eliminate duplicate record keeping and associated delays and errors; and they convey trust transitively across the network. But the larger or more comprehensive the blockchain, the less trustworthy is the data entered by the least trustworthy member. Thus, the optimal size of a blockchain is determined by the trade-off between transaction costs, which improve with scale, and peripheral trust, which deteriorates.
 >
-><figure class="third">
+> <figure>
 	<img src="/images/posts/2016/blockchain-5.png">
-></figure>
+> </figure>
 > 
 > This is not mere theory. One of the most scrutinized uses of a blockchain is for the clearing and settlement of securities transactions, currently a complex network of brokers, custodian banks, stock transfer agents, regulators, and depositories. A single transfer can require a dozen intermediary transactions, and typically takes three days. Some 20% generate errors, which must be corrected by hand.
 > 
@@ -140,11 +140,11 @@ So let me get in first by saying this one's quite a long article that will take 
 > 
 > But why stop there? The brokers (as agents of the buyer and seller) could trade on a larger blockchain to disintermediate the custodians, thereby further reducing total transaction costs. Institutions issuing securities, such as corporations and municipalities, could issue them directly onto the blockchain, thereby disintermediating their stock transfer agents.
 > 
-><figure class="third">
+> <figure>
 	<img src="/images/posts/2016/blockchain-6a.png">
 	<img src="/images/posts/2016/blockchain-6b.png">
 	<img src="/images/posts/2016/blockchain-6c.png">
-></figure>
+> </figure>
 > 
 > What limits these more ambitious solutions is peripheral trust. Some 50 regulated global banks might have sufficient reason to trust one another’s honesty and competence. But for hundreds of brokers and thousands of issuing institutions, trust would be much, much harder to achieve. Hence the tradeoff between transaction costs and peripheral trust.
 > 
