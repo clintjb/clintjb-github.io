@@ -14,7 +14,7 @@ Begin by slicing through the fat in a "criss-cross" pattern and seasoning all si
 
 Preheat the oven to 80 degrees and heat a large, heavy skillet over high heat. Add the duck breasts skin side down and cook for about 6 minutes until the skin is deeply browned. The duck should sizzle, but it shouldn't splatter wildly or smoke too much. If the skin appears to be browning too fast and there is a risk of badly burning, reduce the heat slightly.
  
-Transfer the duck, skin side up, to an oven rack (set a plate in the oven under the rack as it will drop fat (makes cleaning up easy). Roast until medium-rare (a thermometer inserted in the thickest part at 60-65 degrees), usually about 50-55 minutes. Take it out of the oven and cover with foil and let it rest for at least 10 mins. As a side note, a good amount of duck fat will be left behind in the skillet/plate. Reserve this fat to sauté any vegetables in!
+Transfer the duck, skin side up, to an oven rack (set a plate in the oven under the rack as it will drop fat and makes cleaning up easy). Roast until medium-rare; A thermometer inserted into the thickest part should read 60-65 degrees - usually about 50-55 minutes. Take it out of the oven and cover with foil and let it rest for at least 10 mins. As a side note, a good amount of duck fat will be left behind in the skillet/plate. Reserve this fat to sauté any vegetables in!
 
 ## A l'orange
 * 1/4 cup granulated sugar
