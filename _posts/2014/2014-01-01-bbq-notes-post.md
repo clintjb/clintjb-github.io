@@ -37,3 +37,8 @@ Just some of my personal notes on temps and times while BBQ'ing
 #### Chicken Legs
 * @ 110 Degrees
 * 3 Hours
+
+#### Tri Tip
+* @ 100 Degrees
+* Internal temp 55-60 degrees
+* 1 - 1.5 Hours
