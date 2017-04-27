@@ -32,4 +32,4 @@ Ive recently just completed an online MBA developed entirely out of MOOCs from s
 * MEGA & ARIS Process Modelling
 * Adobe Design Suite
 
-<a href="https://dl.dropboxusercontent.com/u/1161781/clintbird.com/Clint%20Bird%20-%20CV.pdf" class="btn">Download CV</a>
+<a href="https://www.dropbox.com/s/gwyom2o80efhw3u/Clint%20Bird%20-%20CV.pdf?dl=0" class="btn">Download CV</a>
