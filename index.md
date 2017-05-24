@@ -2,7 +2,7 @@
 layout: home
 title: Home
 excerpt: "30 something year old father, husband, lean enthusiast and aspiring chef. 10+ years experience in design to cost, project management and operations management.."
-tags: [clint bird, clint, bird, hamburg, germany, australia, airbus, weave.ws, cost, dtc, dfx, lean, design to cost, automotive, aerospace, manufacturing, value]
+tags: [clint bird, clint, bird, hamburg, germany, australia, airbus, weave.ws, cost, dtc, dfx, lean, design to cost, automotive, aerospace, manufacturing, value, cost, reduction]
 modified: 2016-24-02
 comments: false
 image:
@@ -11,7 +11,9 @@ image:
 
 Hi I'm Clint,
 
-A 30 something year old outspoken father, husband, lean enthusiast and aspiring chef. I'm originally from Australia but was roped into now living in Hamburg Germany. I love to try and break things down as clean and simple as possible. To better understand whats going on at the working level, and more importantly what brings the benefit for the end product. 
+A 30 something year old outspoken father, husband, lean enthusiast and aspiring chef. I'm originally from Australia but was roped into now living in Hamburg Germany. 
+
+I love to try and break things down as clean and simple as possible. To better understand whats going on at the working level, and more importantly what brings the benefit for the end product. 
 
 In my spare time I'm also the co-founder of [Weave](http://www.weave.ws). We've tried to develop something that allows the user to unexpectedly find and deeply connect with content that has a purpose; our ultimate goal is to help users explore and share meaningful moments through their social network. 
 
