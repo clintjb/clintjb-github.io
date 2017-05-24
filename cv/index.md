@@ -1,7 +1,7 @@
 ---
 layout: page
 title: Clint Bird - CV
-tags: [CV, clint, bird, hamburg, germany, dtc, airbus, operations, mba]
+tags: [CV, clint, bird, hamburg, germany, dtc, airbus, operations, mba, cost, reduction]
 modified: 2014-08-08T20:53:07.573882-04:00
 comments: false
 image:
