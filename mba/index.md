@@ -53,7 +53,7 @@ This course will be broken up into 4 modules covering the following topics:
 * Cash Flows
 * Ratio Analysis
 
-[Transcript & Final Grade - 82.0%]( https://dl.dropboxusercontent.com/u/1161781/clintbird.com/Accounting.pdf )
+[Transcript & Final Grade - 82.0%](/files/Accounting.pdf)
 {:.notice}
 
 ---
@@ -77,7 +77,7 @@ The course is broken up into six modules:
 
 As the final project deliverable you are asked to prepare and submit a final written strategic analysis of your chosen organization. The purpose of your analysis is to assess the current competitive position of the firm and to make recommendations on how to improve that position. The audience for this report is the CEO or President of the organization you are analyzing. Thus, there is no need to discuss in depth the organization’s history, its business, or other facts that the CEO is already quite familiar with unless you need to communicate those things in order to make a point. To begin, briefly identify the industry of the firm you are analyzing. Discuss the strategic groups that constitute the industry and identify major competitors within each strategic group. Who are the major competitors in the industry? How do they compete? Has the industry structure changed? For example, have barriers to entry become less significant, and if so, why? What is the nature of competitive rivalry in the industry? Your analysis should consider the effect of each of the five competitive forces in the firm’s industry. In addition, analyze how factors in the general environment have been affecting this industry. You may limit your analysis to those factors that are most relevant to your industry. You must explain, though, why certain factors are more relevant than others. Decide which factors are most relevant to your industry, and focus on those. How have these factors influenced any or all of the five competitive forces you analyze? Analyze the firm’s capabilities. Are they distinctive, and difficult to imitate? Do they create a competitive advantage? To what extent is this competitive advantage sustainable? Are the firm’s capabilities a good ‘fit’ with the insights revealed from your analysis of the industry’s five forces, the changing business environment, and the position of the firm’s competitors? Why or why not? Use your analyses to identify the current competitive position of the focal organization. How desirable and sustainable is that competitive position? Based upon your analysis, characterize the overall attractiveness of the organization’s competitive position within the industry. As much as possible, please provide data to back up your points. Use the resources available to you to help support your analytical insights.
 
-[Transcript & Final Grade - 85.0%]( https://dl.dropboxusercontent.com/u/1161781/clintbird.com/Strategy.pdf )
+[Transcript & Final Grade - 85.0%](/files/Strategy.pdf)
 {:.notice}
 
 ---
@@ -101,7 +101,7 @@ This course will be broken up into 8 modules covering the following topics:
 * Firms With Market Power
 * Public Goods, Common Resources, and Externalities
 
-[Transcript & Final Grade - 86.7%]( https://dl.dropboxusercontent.com/u/1161781/clintbird.com/Economics.pdf )
+[Transcript & Final Grade - 86.7%](/files/Economics.pdf)
 {:.notice}
 
 ---
@@ -121,7 +121,7 @@ This course will be broken up into 4 modules covering the following topics:
 * Discounted Cash Flow Analysis
 * Return on Investment
 
-[Transcript & Final Grade - 75.9%]( https://dl.dropboxusercontent.com/u/1161781/clintbird.com/Finance.pdf )
+[Transcript & Final Grade - 75.9%](/files/Finance.pdf)
 {:.notice}
 
 ---
@@ -140,7 +140,7 @@ This course is part of the Wharton foundation series in the MOOC format. It is t
 * Customer Centricity
 * Go To Market Strategies
 
-[Transcript & Final Grade - 94.0%]( https://dl.dropboxusercontent.com/u/1161781/clintbird.com/Marketing.pdf )
+[Transcript & Final Grade - 94.0%](/files/Marketing.pdf)
 {:.notice}
 
 ---
@@ -164,7 +164,7 @@ This course will be broken up into 6 modules covering the following topics:
 * Networking
 * Conflict
 
-[Transcript & Final Grade - 96.6%]( https://dl.dropboxusercontent.com/u/1161781/clintbird.com/Leadership.pdf )
+[Transcript & Final Grade - 96.6%](/files/Leadership.pdf)
 {:.notice}
 
 ---
@@ -185,7 +185,7 @@ Remember the last time you went to a restaurant. What did you expect from that r
 * Quality
 * Product variety
 
-[Transcript & Final Grade - 90.4%]( https://dl.dropboxusercontent.com/u/1161781/clintbird.com/Operations%20Managment.pdf )
+[Transcript & Final Grade - 90.4%](/files/Operations%20Managment.pdf)
 {:.notice}
 
 ---
@@ -207,7 +207,7 @@ This course will be broken up into 6 modules covering the following topics:
 * Basics of Linear Regression
 * Data Visualization: How to create use data to create compelling graphics
 
-[Transcript & Final Grade - 88.0%]( https://dl.dropboxusercontent.com/u/1161781/clintbird.com/Statistics.pdf )
+[Transcript & Final Grade - 88.0%](/files/Statistics.pdf)
 {:.notice}
 
 ---
@@ -222,7 +222,7 @@ Management theorists and ethics experts have increasingly concluded that this re
 
 This course is designed to provide an introduction to the subject of ethical behavior in business. The course provides an understanding of the nature of ethics, the role ethics plays in business, and the most commonly encountered ethical dilemmas in a business career. It provides practical advice on how to identify ethical dilemmas when they arise, how to get enough information to assess one’s responsibilities, how to analyze a complex ethical choice, and how to marshal one’s own resources and courage to act ethically. While the course includes some ethical theory, it is designed to be approachable by the seasoned manager, the novice businessperson, and students in business schools.
 
-[Transcript & Final Grade - 94.2%]( https://dl.dropboxusercontent.com/u/1161781/clintbird.com/Ethics.pdf )
+[Transcript & Final Grade - 94.2%](/files/Ethics.pdf)
 {:.notice}
 
 ---
@@ -237,5 +237,5 @@ You have an idea for a product, but do you know who will want to buy it? Entrepr
 
 This course is designed to provide an introduction to the subject of ethical behavior in business. The course provides an understanding of the nature of ethics, the role ethics plays in business, and the most commonly encountered ethical dilemmas in a business career. It provides practical advice on how to identify ethical dilemmas when they arise, how to get enough information to assess one’s responsibilities, how to analyze a complex ethical choice, and how to marshal one’s own resources and courage to act ethically. While the course includes some ethical theory, it is designed to be approachable by the seasoned manager, the novice businessperson, and students in business schools.
 
-[Transcript & Final Grade - 90.0%]( https://dl.dropboxusercontent.com/u/1161781/clintbird.com/Entrepreneurship.pdf )
+[Transcript & Final Grade - 90.0%](/files/Entrepreneurship.pdf)
 {:.notice}
