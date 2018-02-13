@@ -32,4 +32,4 @@ Ive recently just completed an online MBA developed entirely out of MOOCs from s
 * VB & HTML Scripting
 * Adobe Design Suite
 
-<a href="www.dropbox.com/s/gwyom2o80efhw3u/Clint%20Bird%20-%20CV.pdf?dl=0" class="btn">Download CV</a>
+<a href="https://www.dropbox.com/s/gwyom2o80efhw3u/Clint%20Bird%20-%20CV.pdf?dl=0" class="btn">Download CV</a>
