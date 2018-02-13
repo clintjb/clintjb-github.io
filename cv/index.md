@@ -1,7 +1,7 @@
 ---
 layout: page
 title: Clint Bird - CV
-tags: [CV, clint, bird, hamburg, germany, dtc, airbus, operations, mba, cost, reduction]
+tags: [CV, clint, bird, hamburg, germany, dtc, airbus, operations, mba, cost, reduction, digital, transformation, python, digitization]
 modified: 2014-08-08T20:53:07.573882-04:00
 comments: false
 image:
@@ -32,4 +32,4 @@ Ive recently just completed an online MBA developed entirely out of MOOCs from s
 * VB & HTML Scripting
 * Adobe Design Suite
 
-<a href="https://www.dropbox.com/s/gwyom2o80efhw3u/Clint%20Bird%20-%20CV.pdf?dl=0" class="btn">Download CV</a>
+<a href="/files/Clint Bird - CV.pdf" class="btn">Download CV</a>
