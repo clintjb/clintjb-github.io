@@ -34,10 +34,10 @@
   </div>
   <div id="index">
   <div class="grid__wrapper">
-  {% for post in site.posts %}
-    {% include archive-single.html type="grid" %}
+  {% for post in site.tags[page.tag] %}
+    {% include post.html type="grid" %}
   {% endfor %}
-</div>
+  </div>
 
     {% capture written_year %}'None'{% endcapture %}
   	{% for post in site.tags[page.tag] %}  
