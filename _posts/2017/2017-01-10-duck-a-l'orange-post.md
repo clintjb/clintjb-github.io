@@ -1,6 +1,6 @@
 ---
 layout: post
-title: ":star: :gem: Duck + Sauces  :+1:!"
+title: "Duck + Sauces!"
 excerpt: "Simple duck breast and some delicious sauces"
 tags: [cooking, duck, orange, pears, breast, sauce, recipe]
 comments: true
