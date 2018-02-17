@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Duck + Sauces  :+1:!"
+title: ":star: :gem: Duck + Sauces  :+1:!"
 excerpt: "Simple duck breast and some delicious sauces"
 tags: [cooking, duck, orange, pears, breast, sauce, recipe]
 comments: true
@@ -8,7 +8,7 @@ comments: true
 <figure>
     <img src="/images/posts/2017/duck.jpg">
 </figure>
-:+1:! I'll start :) this off with the simplest way I know to cook guaranteed perfect duck breast and then follow up with one of two sauces - an a l'orange and poached pears in red wine.
+I'll start this off with the simplest way I know to cook guaranteed perfect duck breast and then follow up with one of two sauces - an a l'orange and poached pears in red wine.
 
 Begin by slicing through the fat in a "criss-cross" pattern and seasoning all sides generously with Chinese 5 spice, salt, and pepper.
 
