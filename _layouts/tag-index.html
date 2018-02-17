@@ -32,6 +32,28 @@
   <div class="article-author-side">
     {% include _author-bio.html %}
   </div>
+  
+  
+<h3 class="archive__subtitle">Recent work</h3>
+
+{% include group-by-array collection=site.posts field="categories" %}
+
+<div class="cf"> 
+<div class="grid__wrapper">
+
+{% for category in group_names %}
+  <!-- only research -->
+  {% if category contains site.research %}
+    {% assign posts = group_items[forloop.index0] %}
+    {% for post in posts %}
+    {% include archive-single.html type="grid" %}
+    {% endfor %}
+  {% endif %}
+{% endfor %}
+
+</div>
+</div>
+  
   <div id="index">
     <h1>{{ page.title }}</h1>
     {% capture written_year %}'None'{% endcapture %}
