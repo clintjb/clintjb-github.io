@@ -1,5 +1,5 @@
 ---
-layout: tag-index
+layout: archive
 title: Business
 excerpt: "A list of business and manufcaturing related posts"
 tag: "business"
