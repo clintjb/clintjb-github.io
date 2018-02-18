@@ -634,7 +634,9 @@ $button-size: 1.5rem;
 	@include container;
 	@include clearfix;
 	clear: both;
-	padding-bottom: 3em;
+	font-size: small;
+	padding-top: 0.3em;
+	padding-bottom: 0.3em; 	
 	a,
 	a:active,
 	a:visited,
