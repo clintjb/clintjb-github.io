@@ -2,7 +2,7 @@
 layout: post
 title: "I Finally Got A Mini!"
 excerpt: "Its time to get started..."
-tags: [mini, cooper, 1275, restoration, bought, 1992]
+tags: [mini, cooper, 1275, restoration, bought, 1992, stuff]
 comments: true 
 ---
 <figure>
