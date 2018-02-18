@@ -634,6 +634,8 @@ $button-size: 1.5rem;
 	@include container;
 	@include clearfix;
 	background: #343434;
+	font-size: small;
+	color: #4e4e4e;
 	clear: both;
 	padding-bottom: 1em;
 	a,
