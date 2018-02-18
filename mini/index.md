@@ -1,8 +1,8 @@
 ---
 layout: tag-index
-title: Mini
-excerpt: "A list of posts realted to my mini restoration"
-tag: "mini"
+title: Digitization
+excerpt: "A list of posts realted to digitization and other data related topics"
+tag: "digital"
 image:
-  feature: header-mini.jpg
+  feature: header-digital.jpg
 ---
