@@ -633,12 +633,8 @@ $button-size: 1.5rem;
 .footer-wrap {
 	@include container;
 	@include clearfix;
-	background: #111;
-	font-size: small;
-	color: #4e4e4e;
 	clear: both;
-	padding-top: 0.3em;
-	padding-bottom: 0.3em;
+	padding-bottom: 3em;
 	a,
 	a:active,
 	a:visited,
