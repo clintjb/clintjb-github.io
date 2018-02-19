@@ -39,6 +39,7 @@
       {% else %}
         <h1><a href="{{ site.url }}{{ page.url }}" rel="bookmark" title="{{ page.title }}">{{ page.title }}</a></h1>
       {% endif %}
+      <p class="page__meta"><i class="far fa-clock" aria-hidden="true"></i> {% include _read-time.html %}</p>
       {% include _read-time.html %}
     </div><!--/ .headline-wrap -->
     <div class="article-wrap">
