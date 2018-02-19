@@ -5,7 +5,6 @@
 <!--[if gt IE 8]><!--> <html class="no-js" lang="en"><!--<![endif]-->
 <head>
 {% include _head.html %}
-<link rel="stylesheet" href="/assets/css/home.css" id="theme-stylesheet">
 </head>
 
 <body class="test">
@@ -14,24 +13,24 @@
 
 {% include _navigation.html %}
 
-<section id="intro" class="intro image-background">
-      <div class="overlay"></div>
-      <div class="content">
-        <div class="container clearfix">
-          <div class="row">
-            <div class="col-md-8 col-md-offset-2 col-sm-12">
-              <p class="roboto">Hi Everyone</p>
-              <h1>My Name Is<br /><span class="bold">Clint Bird</span></h1>
-              <p class="roboto">And this is a theme for your personal or company website brought to you by <a href="http://bootstrapious.com" class="external">Bootstrapious.com</a></p>
-            </div>
-          </div>
-        </div>
-      </div><a href="#text" class="icon faa-float animated scroll-to"><i class="fa fa-angle-double-down"></i></a>
-    </section>
+{% if page.image.feature %}
+  <div class="image-wrap">
+  <img src=
+    {% if page.image.feature contains 'http' %}
+      "{{ page.image.feature }}"
+    {% else %}
+      "{{ site.url }}/images/{{ page.image.feature }}"
+    {% endif %}
+  alt="{{ page.title }} feature image">
+  {% if page.image.credit %}
+    <span class="image-credit">Photo Credit: <a href="{{ page.image.creditlink }}">{{ page.image.credit }}</a></span>
+  {% endif %}
+  </div><!-- /.image-wrap -->
+{% endif %}
 
 <div id="main" role="main">
   <div class="article-author-side">
-    {% include _author-bio.html %}
+    <!-- {% include _author-bio.html %} -->
   </div>
   <article class="page">
     <div class="article-wrap">
