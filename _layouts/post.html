@@ -35,9 +35,9 @@
   <article class="post">
     <div class="headline-wrap">
       {% if page.link %}
-        <h1><a href="{{ page.link }}">{{ page.title }}</a></h1>
+        <h1 style="margin-bottom: 10px;"><a href="{{ page.link }}">{{ page.title }}</a></h1>
       {% else %}
-        <h1><a href="{{ site.url }}{{ page.url }}" rel="bookmark" title="{{ page.title }}">{{ page.title }}</a></h1>
+        <h1 style="margin-bottom: 10px;"><a href="{{ site.url }}{{ page.url }}" rel="bookmark" title="{{ page.title }}">{{ page.title }}</a></h1>
       {% endif %}
       <small>{% include _read-time.html %}<i class="fa fa-fw fa-clock-o"></i></small>
     </div><!--/ .headline-wrap -->
