@@ -30,7 +30,9 @@
 
 <div id="main" role="main">
   <div class="article-author-side">
-    <!-- {% include _author-bio.html %} -->
+    {% if page.image.credit %}
+    {% include _author-bio.html %}
+    {% endif %}
   </div>
   <article class="page">
     <div class="article-wrap">
