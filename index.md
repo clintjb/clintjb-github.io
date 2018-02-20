@@ -6,7 +6,7 @@ tags: [clint bird, clint, bird, hamburg, germany, australia, airbus, entrepreneu
 modified: 2018-09-02
 comments: false
 image:
-  feature: header-about.jpg
+  feature: header-home.jpg
 ---
 
 Hi I'm Clint,
