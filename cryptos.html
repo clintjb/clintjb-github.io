@@ -1,13 +1,11 @@
 <html>
+<!doctype html>
+<!--[if lt IE 7]><html class="no-js lt-ie9 lt-ie8 lt-ie7" lang="en"> <![endif]-->
+<!--[if (IE 7)&!(IEMobile)]><html class="no-js lt-ie9 lt-ie8" lang="en"><![endif]-->
+<!--[if (IE 8)&!(IEMobile)]><html class="no-js lt-ie9" lang="en"><![endif]-->
+<!--[if gt IE 8]><!--> <html class="no-js" lang="en"><!--<![endif]-->
 <head>
-	<meta charset="utf-8">
-	<meta http-equiv="X-UA-Compatible" content="IE=edge">
-
-	<title>Cryptocurrency Tracker</title>
-	<meta name="viewport" content="width=device-width, initial-scale=1">
-	<meta name="description" content="Manage and chart your cryptocurrency portfolio securely and privately. Track your profits, set alerts, and analyze your trading performance.">
-	<meta name="keywords" content="bitcoin portfolio, ethereum portfolio, litecoin portfolio, altcoin portfolio, btc, eth, ltc, cryptocurrency, crypto, cryptocurrency portfolio, investing, track cryptocurrency, bitcoin, ethereum, litecoin, dash, monero, iota, neo, decred, ripple" />
-
+{% include _head.html %}
 	<!-- Bootstrap -->
 	<link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/bootstrap/3.3.7/css/bootstrap.min.css" integrity="sha384-BVYiiSIFeK1dGmJRAkycuHAHRg32OmUcww7on3RYdg4Va+PmSTsz/K68vbdEjh4u" crossorigin="anonymous">
 
@@ -1640,7 +1638,7 @@
 						'id'        : crypto.id,
 						'name'      : crypto.name,
 						'symbol'    : crypto.symbol,
-						'price_eur' : parseFloat(crypto.price_eur).toFixed(2),
+						'price_usd' : parseFloat(crypto.price_usd).toFixed(2),
 						'price_btc' : parseFloat(crypto.price_btc),
 						'delta_1h'  : parseFloat(crypto.percent_change_1h),
 						'delta_24h' : parseFloat(crypto.percent_change_24h),
