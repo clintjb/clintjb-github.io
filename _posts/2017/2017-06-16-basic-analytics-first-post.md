@@ -1,7 +1,7 @@
 ---
 layout: post
-title: ":fire: Basic Analytics Comes First"
-excerpt: "Secure analytics first before chasing AI"
+title: "Basic Analytics Comes First"
+excerpt: ":fire: Secure analytics first before chasing AI"
 tags: [business, AI, analytics, data, manage, digital]
 comments: true 
 ---
