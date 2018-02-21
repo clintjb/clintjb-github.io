@@ -1603,7 +1603,7 @@
 			var coin_watch_list = [];
 			var cryptos = {};
 			var crypto_names = {};
-			var fiat = {'symbol': '$', 'name': 'USD', 'rate': 1.0};
+			var fiat = {'symbol': '€', 'name': 'EUR', 'rate': 1.0};
 			var morris_charts = {};
 
 			// First, load all of the user's basic settings & alerts
@@ -1640,7 +1640,7 @@
 						'id'        : crypto.id,
 						'name'      : crypto.name,
 						'symbol'    : crypto.symbol,
-						'price_usd' : parseFloat(crypto.price_usd).toFixed(2),
+						'price_eur' : parseFloat(crypto.price_eur).toFixed(2),
 						'price_btc' : parseFloat(crypto.price_btc),
 						'delta_1h'  : parseFloat(crypto.percent_change_1h),
 						'delta_24h' : parseFloat(crypto.percent_change_24h),
