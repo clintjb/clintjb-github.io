@@ -5,7 +5,6 @@
 <!--[if (IE 8)&!(IEMobile)]><html class="no-js lt-ie9" lang="en"><![endif]-->
 <!--[if gt IE 8]><!--> <html class="no-js" lang="en"><!--<![endif]-->
 <head>
-{% include _head.html %}
 	<!-- Bootstrap -->
 	<link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/bootstrap/3.3.7/css/bootstrap.min.css" integrity="sha384-BVYiiSIFeK1dGmJRAkycuHAHRg32OmUcww7on3RYdg4Va+PmSTsz/K68vbdEjh4u" crossorigin="anonymous">
 
@@ -356,7 +355,25 @@
 	</style>
 </head>
 <body>
-
+<div class="navigation-wrapper">
+	<div class="site-name">
+		<a href="{{ site.url }}/"><img border="0" alt="Clint Bird" src="{{ site.url }}/images/favicon.png"></a>
+	</div><!-- /.site-name -->
+	<div class="top-navigation">
+		<nav role="navigation" id="site-nav" class="nav">
+		    <ul>
+		        {% for link in site.data.navigation %}
+				    {% if link.url contains 'http' %}
+				        {% assign domain = '' %}
+				        {% else %}
+				        {% assign domain = site.url %}
+				    {% endif %}
+				    <li><a href="{{ domain }}{{ link.url }}" {% if link.url contains 'http' %}target="_blank"{% endif %}>{{ link.title }}</a></li>
+				{% endfor %}
+		    </ul>
+		</nav>
+	</div><!-- /.top-navigation -->
+</div><!-- /.navigation-wrapper -->
 	<div id="page-wrapper" style="margin-left: 0px;">
 		<div id="page-index" class="page-item">
 
@@ -1601,7 +1618,7 @@
 			var coin_watch_list = [];
 			var cryptos = {};
 			var crypto_names = {};
-			var fiat = {'symbol': '€', 'name': 'EUR', 'rate': 1.0};
+			var fiat = {'symbol': '$', 'name': 'USD', 'rate': 1.0};
 			var morris_charts = {};
 
 			// First, load all of the user's basic settings & alerts
