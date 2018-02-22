@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "Positive Feedback"
-excerpt: "How to give your team more effective positive feedback"
+excerpt: ":fire: How to give your team more effective positive feedback"
 tags: [business, development, career, feedback, coaching]
 comments: true 
 ---
