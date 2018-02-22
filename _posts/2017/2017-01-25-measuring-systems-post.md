@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "Measuring Systems"
-excerpt: "Why measuring systems matters more than measuring people"
+excerpt: ":fire: Why measuring systems matters more than measuring people"
 tags: [business, measurement, systems, lean, continual, improvement]
 comments: true
 ---
