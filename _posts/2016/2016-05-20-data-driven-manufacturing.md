@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "The Biggest Challenges Of Data-Driven Manufacturing"
-excerpt: "A refreshing look at Industry 4.0"
+excerpt: ":fire: A refreshing look at Industry 4.0"
 tags: [business, development, industry, 4.0, industrial, iot]
 comments: true 
 ---
