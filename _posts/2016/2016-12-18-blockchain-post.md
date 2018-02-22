@@ -2,7 +2,7 @@
 layout: post
 title: "Thinking Outside The Blocks"
 excerpt: "A strategic perspective on blockchain, tokens and where we go from here"
-tags: [business, bitcoin, blockchain, strategy, IoT, economics, tokens]
+tags: [business, bitcoin, blockchain, strategy, IoT, economics, tokens, digital]
 comments: true 
 ---
 <figure>
