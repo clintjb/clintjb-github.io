@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "Career Advice No One Tells You"
-excerpt: "Some of those little career reflections you wish you realized a few years earlier"
+excerpt: ":fire: Some of those little career reflections you wish you realized a few years earlier"
 tags: [business, development, career]
 comments: true 
 ---
