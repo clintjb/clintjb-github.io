@@ -17,6 +17,7 @@ gems:
   - jekyll-sitemap
   - jekyll-gist
   - jemoji
+  - jekyll-seo-tag
 
 kramdown:
   auto_ids: true
