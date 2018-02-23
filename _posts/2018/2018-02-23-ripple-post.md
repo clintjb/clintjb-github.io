@@ -19,35 +19,3 @@ Although I believe most coins will fail; the ones that provide legitimate techno
 While no one can really predict who will succeed, we can try and educate ourselves on the technology and what it can legitimately offer. For the time being though, as long as crypto is literally just commodities with an artificial value (e.g. BTC is somewhat similar to gold) it causes the market to be treated like commodity trading and not buying the shares of a company. 
 
 At some point, this will change, and I believe XRP looks to be in a strong position to be one of the remaining players while others fade into obscurity. But for now the market is controlled by private investors who likely don't care, about the technology but just follow trends and market cap/value - So keep your hats on and HODL!
-
-<iframe src="<script type="text/javascript">
-baseUrl = "https://widgets.cryptocompare.com/";
-var scripts = document.getElementsByTagName("script");
-var embedder = scripts[ scripts.length - 1 ];
-(function (){
-var appName = encodeURIComponent(window.location.hostname);
-if(appName==""){appName="local";}
-var s = document.createElement("script");
-s.type = "text/javascript";
-s.async = true;
-var theUrl = baseUrl+'serve/v1/coin/chart?fsym=XRP&tsym=EUR';
-s.src = theUrl + ( theUrl.indexOf("?") >= 0 ? "&" : "?") + "app=" + appName;
-embedder.parentNode.appendChild(s);
-})();
-</script>" width="800" height="401" frameborder="0" scrolling="no" seamless="seamless"></iframe>
-
-<script type="text/javascript">
-baseUrl = "https://widgets.cryptocompare.com/";
-var scripts = document.getElementsByTagName("script");
-var embedder = scripts[ scripts.length - 1 ];
-(function (){
-var appName = encodeURIComponent(window.location.hostname);
-if(appName==""){appName="local";}
-var s = document.createElement("script");
-s.type = "text/javascript";
-s.async = true;
-var theUrl = baseUrl+'serve/v1/coin/chart?fsym=XRP&tsym=EUR';
-s.src = theUrl + ( theUrl.indexOf("?") >= 0 ? "&" : "?") + "app=" + appName;
-embedder.parentNode.appendChild(s);
-})();
-</script>
