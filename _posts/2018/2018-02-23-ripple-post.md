@@ -20,4 +20,5 @@ While no one can really predict who will succeed, we can try and educate ourselv
 
 {% include _ripple.html %}
 
+
 At some point, this will change, and I believe XRP looks to be in a strong position to be one of the remaining players while others fade into obscurity. But for now the market is controlled by private investors who likely don't care, about the technology but just follow trends and market cap/value - So keep your hats on and HODL!
