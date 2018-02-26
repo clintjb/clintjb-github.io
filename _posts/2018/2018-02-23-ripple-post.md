@@ -12,9 +12,43 @@ This is simply my "current" personal view on Ripple and cryptocurrencies in gene
 
 Some, however genuinely are in it for the technology of blockchain/DLT and aim to be providing solutions at the ground floor of a new technology that can revolutionize industrial & corporate finance. Blockchain, in general, is a technology that's largely not understood by the general public and business sectors; Until blockchain can actually break some ground with large adoption and actual real use cases the perception and social/emotional choices will continue to drive the market. 
 
+<iframe <script type="text/javascript">
+baseUrl = "https://widgets.cryptocompare.com/";
+var scripts = document.getElementsByTagName("script");
+var embedder = scripts[ scripts.length - 1 ];
+(function (){
+var appName = encodeURIComponent(window.location.hostname);
+if(appName==""){appName="local";}
+var s = document.createElement("script");
+s.type = "text/javascript";
+s.async = true;
+var theUrl = baseUrl+'serve/v1/coin/chart?fsym=XRP&tsym=EUR';
+s.src = theUrl + ( theUrl.indexOf("?") >= 0 ? "&" : "?") + "app=" + appName;
+embedder.parentNode.appendChild(s);
+})();
+</script> </iframe>
+
 The .com bubble was worth ca [5 trillion](http://ac360.blogs.cnn.com/2009/11/24/the-dot-com-bubble-how-to-lose-5-trillion/) when it popped. Money was flooding into useless startups that did absolutely nothing and when the bubble finally popped, billions were wasted on ventures. I personally believe the same thing is going on with crypto and history will repeat itself. I couldn't imagine how there will be any more than ~100 coins left standing once blockchain is as well known and understood as "search engine" or "online shopping" today.
 
+<iframe {% include _ripple.html %} </iframe>
+
 Although I believe most coins will fail; the ones that provide legitimate technological advantages and are solving real-world problems will likely explode and be household names in the next 3-5 years once the technology is regulated and largely adopted (I would assume what most long-term XRP investors are likely hoping for) 
+
+<script type="text/javascript">
+baseUrl = "https://widgets.cryptocompare.com/";
+var scripts = document.getElementsByTagName("script");
+var embedder = scripts[ scripts.length - 1 ];
+(function (){
+var appName = encodeURIComponent(window.location.hostname);
+if(appName==""){appName="local";}
+var s = document.createElement("script");
+s.type = "text/javascript";
+s.async = true;
+var theUrl = baseUrl+'serve/v1/coin/chart?fsym=XRP&tsym=EUR';
+s.src = theUrl + ( theUrl.indexOf("?") >= 0 ? "&" : "?") + "app=" + appName;
+embedder.parentNode.appendChild(s);
+})();
+</script>
 
 While no one can really predict who will succeed, we can try and educate ourselves on the technology and what it can legitimately offer. For the time being though, as long as crypto is literally just commodities with an artificial value (e.g. BTC is somewhat similar to gold) it causes the market to be treated like commodity trading and not buying the shares of a company. 
 
