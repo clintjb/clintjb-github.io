@@ -14,14 +14,10 @@ Some, however genuinely are in it for the technology of blockchain/DLT and aim t
 
 The .com bubble was worth ca [5 trillion](http://ac360.blogs.cnn.com/2009/11/24/the-dot-com-bubble-how-to-lose-5-trillion/) when it popped. Money was flooding into useless startups that did absolutely nothing and when the bubble finally popped, billions were wasted on ventures. I personally believe the same thing is going on with crypto and history will repeat itself. I couldn't imagine how there will be any more than ~100 coins left standing once blockchain is as well known and understood as "search engine" or "online shopping" today.
 
-<iframe {% include _ripple.html %}</iframe>
-
 Although I believe most coins will fail; the ones that provide legitimate technological advantages and are solving real-world problems will likely explode and be household names in the next 3-5 years once the technology is regulated and largely adopted (I would assume what most long-term XRP investors are likely hoping for) 
 
 While no one can really predict who will succeed, we can try and educate ourselves on the technology and what it can legitimately offer. For the time being though, as long as crypto is literally just commodities with an artificial value (e.g. BTC is somewhat similar to gold) it causes the market to be treated like commodity trading and not buying the shares of a company. 
-
+<br>
 {% include _ripple.html %}
-
+<br>
 At some point, this will change, and I believe XRP looks to be in a strong position to be one of the remaining players while others fade into obscurity. But for now the market is controlled by private investors who likely don't care, about the technology but just follow trends and market cap/value - So keep your hats on and HODL!
-
-
