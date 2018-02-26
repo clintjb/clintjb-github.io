@@ -51,3 +51,5 @@ s.src = theUrl + ( theUrl.indexOf("?") >= 0 ? "&" : "?") + "app=" + appName;
 embedder.parentNode.appendChild(s);
 })();
 </script></iframe>
+
+{% include _ripple.html %}
