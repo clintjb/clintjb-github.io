@@ -2,7 +2,7 @@
 layout: post
 title: "Without Data"
 excerpt: "Quote from Edward Deming"
-tags: [business, deming, quote, data, science, edward, opinion, continuous improvement]
+tags: [business, digital, deming, quote, data, science, edward, opinion, continuous improvement]
 comments: true
 ---
 <figure>
