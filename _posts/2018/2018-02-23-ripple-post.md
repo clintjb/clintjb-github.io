@@ -2,7 +2,7 @@
 layout: post
 title: "Cryptocurrencies"
 excerpt: "My view on the future of crypto and why I'll HODL on XRP"
-tags: [digital, ripple, XRP, crypto, bitcoin, bubble, DLT]
+tags: [digital, ripple, XRP, crypto, bitcoin, bubble, DLT, currency]
 comments: true
 ---
 <figure>
@@ -18,6 +18,8 @@ Although I believe most coins will fail; the ones that provide legitimate techno
 
 While no one can really predict who will succeed, we can try and educate ourselves on the technology and what it can legitimately offer. For the time being though, as long as crypto is literally just commodities with an artificial value (e.g. BTC is somewhat similar to gold) it causes the market to be treated like commodity trading and not buying the shares of a company. 
 <br>
+{:refdef: style="text-align: center;"}
 {% include _ripple.html %}
+{: refdef}
 <br>
 At some point, this will change, and I believe XRP looks to be in a strong position to be one of the remaining players while others fade into obscurity. But for now the market is controlled by private investors who likely don't care, about the technology but just follow trends and market cap/value - So keep your hats on and HODL!
