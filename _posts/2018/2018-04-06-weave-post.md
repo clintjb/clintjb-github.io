@@ -31,22 +31,19 @@ The unique selling point was that we were the first to market with an interface 
 
 <iframe src="https://player.vimeo.com/video/141699064?autoplay=0&title=0&byline=0&portrait=0" width="640" height="360" frameborder="0" webkitallowfullscreen mozallowfullscreen allowfullscreen></iframe>
 
+
 So with all that said - what went wrong? After looking through it, I think it was a combination of things, but will try to summarise as follows:
 
 * Listen To The People That Pay
-
-Hype made us think that we were doing well as a company, it made us feel like we were "on our way". While the hype around Weave paled in comparison to what other startups experience in terms of PR and word-of-mouth, we were still deceived by the fact that almost everyone that heard the idea for the first time seemed to love it. But I quickly learned that hype doesn’t equal traction. It really doesn’t matter how excited a friend-of-a-friend got about Weave unless they became a paying customer. Only pay attention to people that invest a lot of time using your product or pay. Ignore the hype, it doesn’t mean you’re doing well.
+> Hype made us think that we were doing well as a company, it made us feel like we were "on our way". While the hype around Weave paled in comparison to what other startups experience in terms of PR and word-of-mouth, we were still deceived by the fact that almost everyone that heard the idea for the first time seemed to love it. But I quickly learned that hype doesn’t equal traction. It really doesn’t matter how excited a friend-of-a-friend got about Weave unless they became a paying customer. Only pay attention to people that invest a lot of time using your product or pay. Ignore the hype, it doesn’t mean you’re doing well.
 
 * Truly Understand Your Customer
-
-We worked hard on the proof of technical part of the business, but we skimped on the idea validation/customer steps. When we started our business, we knew very little about how it would operate. So we turned to developing solutions as that's what we knew and felt comfortable with (we are Engineers after all!) Instead we should've been out there interviewing more of those 15-25 year olds. Finding out why they were using Snapchat instead of Facebook and why they would (or wouldn't) pay 99c for a thread. We made too many assumptions on our customers based on a limited set of information. Don’t start to brainstorm on the value prop of your product until you’re 100% sure that you’re building something that people actually want.
+> We worked hard on the proof of technical part of the business, but we skimped on the idea validation/customer steps. When we started our business, we knew very little about how it would operate. So we turned to developing solutions as that's what we knew and felt comfortable with (we are Engineers after all!) Instead we should've been out there interviewing more of those 15-25 year olds. Finding out why they were using Snapchat instead of Facebook and why they would (or wouldn't) pay 99c for a thread. We made too many assumptions on our customers based on a limited set of information. Don’t start to brainstorm on the value prop of your product until you’re 100% sure that you’re building something that people actually want.
 
 * Stay Flexible
-
-In an early product phase, try to reach product market fit first. Take short-cuts. Do things that don’t scale. Do things manually. Premature optimization binds resources that could deliver more direct customer value. Ask yourself whether you rather want a working business model that does not scale yet, or whether you want to scale a business model/product that doesn’t work. As the team was all largely engineers we have a natural tendency to do things "right" - we spent much MUCH too long on the backend ensuring stability instead of spending time with the customers. 
+> In an early product phase, try to reach product market fit first. Take short-cuts. Do things that don’t scale. Do things manually. Premature optimization binds resources that could deliver more direct customer value. Ask yourself whether you rather want a working business model that does not scale yet, or whether you want to scale a business model/product that doesn’t work. As the team was all largely engineers we have a natural tendency to do things "right" - we spent much MUCH too long on the backend ensuring stability instead of spending time with the customers. 
 
 * Fail Fast
-
-An oldy but a goody - Fail fast and fail cheap. While we were tempted to bring in additional developers to solve some more points, we ultimately decided that our time was too valuable to waste on a bad idea. The worst case scenario isn’t failing. The worst case scenario is to spend your prime years on something that isn’t working. If you must fail, fail fast and fail cheap. Don’t run a zombie company.
+> An oldy but a goody - Fail fast and fail cheap. While we were tempted to bring in additional developers to solve some more points, we ultimately decided that our time was too valuable to waste on a bad idea. The worst case scenario isn’t failing. The worst case scenario is to spend your prime years on something that isn’t working. If you must fail, fail fast and fail cheap. Don’t run a zombie company.
 
 So with that, all said, finally, I will say that failure in general (particularly having to wind down a startup) is really rough. Once you get through the sadness, anxiety, whatever it may be though, I can only recommend taking the time to sit down with a strong single malt and think: “What would I have done differently?”.
