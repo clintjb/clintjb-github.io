@@ -15,13 +15,13 @@ Ive recently just completed an online MBA developed entirely out of MOOCs from s
 
 ##### Technical Skills
 * Design To Cost & Value Engineering
-* Project Management
+* Project Management (PRINCE2 & Airbus Bronze)
 * Operations & Systems Analysis
 * LEAN Methods
 * Financial Analysis & Forecasting
 
 ##### Business Skills
-* Strong digital literacy
+* Strong Digital Literacy
 * Strategical
 * Analyse & Solve Complex Problems
 * Analytical / Critical Thinker
