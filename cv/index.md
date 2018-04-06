@@ -28,6 +28,7 @@ Ive recently just completed an online MBA developed entirely out of MOOCs from s
 
 ##### Tools & Applications
 * MS Office, Access & Projects
+* Sharepoint Design & Development
 * Python
 * VB & HTML Scripting
 * Adobe Design Suite
