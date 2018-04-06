@@ -33,7 +33,7 @@ The unique selling point was that we were the first to market with an interface 
 
 So with all that said - what went wrong? After looking through it, I think it was a combination of things, but will try to summarise as follows:
 
-* Listen To The People That Pay
+#### Listen To The People That Pay
 Hype made us think that we were doing well as a company, it made us feel like we were "on our way". While the hype around Weave paled in comparison to what other startups experience in terms of PR and word-of-mouth, we were still deceived by the fact that almost everyone that heard the idea for the first time seemed to love it. But I quickly learned that hype doesn’t equal traction. It really doesn’t matter how excited a friend-of-a-friend got about Weave unless they became a paying customer. Only pay attention to people that invest a lot of time using your product or pay. Ignore the hype, it doesn’t mean you’re doing well.
 
 * Truly Understand Your Customer
