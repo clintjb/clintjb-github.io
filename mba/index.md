@@ -12,7 +12,7 @@ image:
 {% include _toc.html %}
 
 ## Overview
-As someone who has spent their professional life devoted to reducing costs out of operations; a cost-conscious ethos and continually questioning the status-quo becomes ingrained. Challenging the 100% solution and find the balance with "bang for the buck", is what leads to real value add at a price point that works. 
+As someone who has spent their professional life devoted to reducing costs out of operations; a cost-conscious ethos becomes quite ingrained. Challenging the 100% solution to find the best "bang for the buck" is part of my role and what I do on an allmost daily basis. 
 
 It was with this mindset I approached the challenge to study an MBA that would also work with my family and travel constraints.
 Online degree programmes have been around for years, and distance learning as a whole is much older. So with the increase in online course popularity/availability; I decided to look into the feasibility of being able to blend together an online MBA developed entirely out of MOOCs from some of the worlds top business programmes. 
