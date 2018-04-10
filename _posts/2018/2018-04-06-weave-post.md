@@ -2,7 +2,7 @@
 layout: post
 title: "Weave"
 excerpt: ":fire: Lessons from my failed startup"
-tags: [business, digital, fail, startup, weave, failure, social, d3, learn]
+tags: [business, digital, fail, startup, weave, failure, social, d3, learn, algorithm]
 comments: true
 ---
 <figure>
@@ -11,7 +11,7 @@ comments: true
 
 Its been a while now since we made the decision to shutdown our startup Weave and call it a day. I had lost the drive and the passion for the business when I saw that the end was near and I didn't have the energy to even think about it. 
 
-The mourning has gone on though long enough, and now for the first time I can actually sit down and reflect on some of the causes and discuss it a little. This post will act as some self-venting, lessons learned and above all a chance to capture some lessons. Because as they say - experience is simply the name we give our mistakes.
+The mourning has gone on though long enough though, and now for the first time I can actually sit down and reflect on some of the causes and discuss it a little. This post will act as some self reflection and above all a chance to capture some lessons learned. Because as they say - experience is simply the name we give our mistakes.
 
 Let's start from the beginning - Weave was a web app where people shared truly special moments. Our thoughts were that the vast majority of content shared on social media is largely only "noise" - as there is no barrier to entry, people largely flood their feeds with uneventful content. Originally after seeing [love locks](https://en.wikipedia.org/wiki/Love_lock) on a bridge here in Hamburg, It struck me that what's enjoyable here is not necessarily the individual messages on each lock, but instead how all these special moments interacted together to create something bigger. It was with this in mind that the idea for Weave was born. 
 
@@ -27,7 +27,7 @@ We wanted to bring the novelty of exploration to the end user, but with their st
 	<img src="/images/posts/2018/weave-3.jpg">
 </figure>
 
-Our unique selling point was that we were the first to market with an interface that's totally different to current platforms. This interface would serve as a strong "novelty" factor and by ensuring higher quality content people would enjoy exploring through in short bursts. By nature, the platform was designed for short term interaction/entertainment - perfectly suited to 15-25 year olds.
+Our unique difference was that we were the first to market with an interface that's totally different to current platforms. This interface would serve as a strong novelty factor and by ensuring higher quality content people would enjoy exploring through in short bursts. By nature, the platform was designed for short term interaction/entertainment - perfectly suited to 15-25 year olds.
 <br>
 <iframe src="https://player.vimeo.com/video/141699064?autoplay=0&title=0&byline=0&portrait=0" width="640" height="360" frameborder="0" webkitallowfullscreen mozallowfullscreen allowfullscreen></iframe>
 <br>
