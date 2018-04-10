@@ -11,7 +11,7 @@ For more than 10 years, I have been honing my skills in the fields of cost reduc
 
 I genuinely believe that via truly understanding the impacts and drivers at the operational level, strong digitized processes and automation can be developed to reduce waste and the drudgery in employees work. It enables the employees to do the things they do best, and help deliver value as an organisation.
 
-Ive recently just completed an online MBA developed entirely out of MOOCs from some of the worlds top business programmes. You can find my curriculum and transcript [here](/mba)
+I've also completed an online MBA developed entirely out of MOOCs from some of the worlds top business programmes. You can find my curriculum & transcript [here](/mba)
 
 ##### Technical Skills
 * Design To Cost & Value Engineering
