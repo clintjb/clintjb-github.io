@@ -11,7 +11,7 @@ image:
 
 Hi I'm Clint,
 
-A 30 something year old outspoken father, husband, digital, lean enthusiast (and aspiring chef!). I'm originally from Australia, but due to some of life's unforeseen adventures am now happily settled in Hamburg Germany.
+A 30 something year old father, husband, lean, digital enthusiast and aspiring chef! I'm originally from Australia, but due to some of life's unforeseen adventures am now happily settled in Hamburg Germany.
 
 I love to try and break things down as clean and simple as possible. To better understand whats going on at the working level, and more importantly what brings the benefit for the end product. 
 
