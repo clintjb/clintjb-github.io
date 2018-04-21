@@ -2,20 +2,20 @@
 layout: post
 title: "Weave"
 excerpt: ":fire: Lessons from my failed startup"
-tags: [business, digital, fail, startup, weave, failure, social, d3, learn, algorithm]
+tags: [business, digital, fail, startup, weave, failure, social, d3, learn, algorithm, entrepreneur]
 comments: true
 ---
 <figure>
 	<img src="/images/posts/2018/weave-1.jpg">
 </figure>
 
-Its been a while now since we made the decision to shutdown our startup Weave and call it a day. I had lost the drive and the passion for the business when I saw that the end was near and I didn't have the energy to even think about it. 
+Its been a while now since we made the decision to shutdown our startup Weave and call it a day. I had lost the drive and the passion for the business when I saw that the end was near; and when it finally came I didn't have the energy to even think about it. 
 
-The mourning has gone on though long enough though, and now for the first time I can actually sit down and reflect on some of the causes and discuss it a little. This post will act as some self reflection and above all a chance to capture some lessons learned. Because as they say - experience is simply the name we give our mistakes.
+The mourning has gone on long enough though, and now for the first time I can actually sit down and reflect on some of the causes and discuss it a little. This post will act as some self reflection and above all a chance to capture some lessons learned. Because as they say - experience is simply the name we give our mistakes.
 
-Let's start from the beginning - Weave was a web app where people shared truly special moments. Our thoughts were that the vast majority of content shared on social media is largely only "noise" - as there is no barrier to entry, people largely flood their feeds with uneventful content. Originally after seeing [love locks](https://en.wikipedia.org/wiki/Love_lock) on a bridge here in Hamburg, It struck me that what's enjoyable here is not necessarily the individual messages on each lock, but instead how all these special moments interacted together to create something bigger. It was with this in mind that the idea for Weave was born. 
+Let's start from the beginning - Weave was a web app where people shared truly special moments. Our thoughts were that the vast majority of content shared on social media is largely only "noise" - as there is no barrier to entry, most people flood their feeds with uneventful content. Originally after seeing [love locks](https://en.wikipedia.org/wiki/Love_lock) on a bridge here in Hamburg, It struck me that what's enjoyable here is not necessarily the individual messages on each lock, but instead how all these special moments interacted together to create something bigger. It was with this in mind that the idea for Weave was born. 
 
-Users paid a small price to add a thread (post) to Weave. The idea was that firstly, this would address our business model, and secondly also ensure higher level content was posted while giving an element of value/exclusivity if someone posted something. "Threads” were a post which was colored based on its emotional quality and contained a unique message, title, icon and uploaded image which allowed users to share meaningful moments and messages with the world. An algorithm was behind the interface detecting correlations from the meta data and connecting peoples threads that shared underlying similarities. 
+Users paid a small price to add a thread (post) to Weave. The idea was that firstly, this would address our business model, and secondly also ensure higher level content was posted while giving an element of value/exclusivity if someone posted something. "Threads” were a post which was colored based on its emotional quality and contained a small message / story, title, icon and uploaded image which allowed users to share meaningful moments and messages with the world. An algorithm was behind the interface detecting correlations from the meta data and connecting peoples threads that shared underlying similarities. 
 
 <figure>
 	<img src="/images/posts/2018/weave-2.jpg">
@@ -27,11 +27,11 @@ We wanted to bring the novelty of exploration to the end user, but with their st
 	<img src="/images/posts/2018/weave-3.jpg">
 </figure>
 
-Our unique difference was that we were the first to market with an interface that's totally different to current platforms. This interface would serve as a strong novelty factor and by ensuring higher quality content people would enjoy exploring through in short bursts. By nature, the platform was designed for short term interaction/entertainment - perfectly suited to 15-25 year olds.
+Our uniqueness was that we were the first to market with an interface that's totally different to current platforms. This interface would serve as a strong novelty factor and by ensuring higher quality content people would enjoy exploring through in short bursts. By nature, the platform was designed for short term interaction/entertainment - perfectly suited to 15-25 year olds.
 <br>
 <iframe src="https://player.vimeo.com/video/141699064?autoplay=0&title=0&byline=0&portrait=0" width="640" height="360" frameborder="0" webkitallowfullscreen mozallowfullscreen allowfullscreen></iframe>
 <br>
-So with all that said - what went wrong? After looking through it, I think it was a combination of things. A lot of these may seem obvious, but when your passionate and deeply invested in something sometimes you miss them or even choose to subconsciously ignore them. I would summarise them as follows:
+So with all that said - what went wrong? After looking through it, I think it was a combination of things. A lot of these may seem obvious, but when your passionate and deeply invested in something, sometimes you miss them or even choose to subconsciously ignore them. I would summarise them as follows:
 
 #### Listen To The People That Pay
 Hype made us think that we were doing well as a startup/concept, it made us feel like we were "on our way". While the hype around Weave paled in comparison to what other startups experience in terms of PR and word-of-mouth, we were still deceived by the fact that almost everyone that heard the idea for the first time seemed to love it. But I quickly learned that hype doesn’t equal traction. It really doesn’t matter how excited a friend-of-a-friend got about Weave unless they became a paying customer. Only pay attention to people that invest a lot of time using your product or pay. Ignore the hype, it doesn’t mean you’re doing well.
