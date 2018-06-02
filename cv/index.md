@@ -11,7 +11,7 @@ For more than 15 years, I have been honing my skills in the fields of operations
 
 Quite often strategies aren't effectively implemented, as the disconnect between high level vision and operational reality are never truly closed. I enjoy nothing more than finding clever, pragmatic solutions to these complex problems.
 
-I genuinely believe that via truly understanding the impacts and drivers at the operational level, strong digitized processes and automation can be developed to reduce waste and the drudgery in employees work. It enables the employees to do the things they do best, and help deliver value as an organisation.
+I genuinely believe that via truly understanding the impacts and drivers at the operational level, strong digitalized processes and automation can be developed to reduce waste and the drudgery in employees work. It enables the employees to do the things they do best, and help deliver value as an organisation.
 
 I've also completed an online MBA developed entirely out of MOOCs from some of the worlds top business programmes. You can find my curriculum & transcript [here](/mba)
 
