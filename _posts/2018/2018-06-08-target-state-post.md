@@ -1,14 +1,14 @@
 ---
 layout: post
-title: "Digital Transformation - The Target State"
-excerpt: "Preparing for constant change"
+title: "The Target State"
+excerpt: "Digital transformation & preparing for constant change"
 tags: [digital, transformation, change, agile, target, continual, improvement]
 comments: true
 ---
 <figure>
 	<img src="/images/posts/2018/target-1.jpg">
 </figure>
-A great [summary](https://www.linkedin.com/pulse/digital-transformation-target-picture-gregor-hohpe) on the concept of continuous transformation as it’s something I'm also strongly pushing for. I think the difficulty really comes down to the execution though - To ensure in an operational environment we can remain flexible enough to continue that transformation while remaining robust enough not to endanger our core deliverables. 
+A great [summary](https://www.linkedin.com/pulse/digital-transformation-target-picture-gregor-hohpe) on the concept of continuous transformation as it’s something I'm also strongly pushing for here in my current role. I think the difficulty really comes down to the execution though - To ensure in an operational environment we can remain flexible enough to continue that transformation while remaining robust enough not to endanger our core deliverables. 
 
 I think today, many IT departments are trying to ignore or even suppress some of these grass root changes coming from within the operational departments. Fundamentally they're missing an opportunity to make this kind of innovation manageable, e.g. by getting it on a common platform without stifling innovation. Some of this blame likely resides with the traditional enterprise vendors as well, who would certainly prefer central IT departments to push heavyweight offerings. Either way, it’s the solutions to these details that are going to make the next few years undoubtedly exciting!
 
